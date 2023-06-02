@@ -1,0 +1,51 @@
+Crawl initialized for: ./bannerclick/input-files/Tranco5Nov_Custom.csv in 11-16-10
+    START_POINT:STEP_SIZE: 0:-1
+    headless: True
+    input_file: ./bannerclick/input-files/Tranco5Nov_Custom.csv
+    num_browsers: 6
+    num_repetitions: 1
+    timeout: 60
+    translation: False
+    delay_time: 22
+    ATTEMPTS:ATTEMPT_STEP: 2:10
+    Chrome: False
+    openwpm.xpi: True
+    Watchdog: True
+    interaction choice: ALL
+    non explicit: True
+    SIMPLE_DETECTION: True
+    search for reject btn in setting: True
+    NC_ADDON: True
+    mobile agent: False
+    CMP detection: True
+    banner interaction: True 
+
+____________________________________________________________
+
+started at: 11-16-10
+failed to continue detecting banner for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed in CMPBCommand for url: https://netflix.com Message: Tried to run command without establishing a connection
+
+finished at: 11-24-50
+completion time(min): 8.675750583333333
+failed to continue detecting banner for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed in CMPBCommand for url: https://netflix.com Message: Tried to run command without establishing a connection
+
+failed to continue detecting banner for domain: netflix.com Message: Failed to decode response from marionette
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed to take screenshot for domain: netflix.com Message: Tried to run command without establishing a connection
+
+failed in CMPBCommand for url: https://netflix.com Message: Tried to run command without establishing a connection
+
