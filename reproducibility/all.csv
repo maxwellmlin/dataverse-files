@@ -1,0 +1,766 @@
+    ,visit_id         ,site_url                        ,site_rank ,complete ,banners ,interaction    ,clicked        ,count_fp ,count_tp ,count_tr
+  0 ,3655498787033561 ,https://mail.ru                 ,        0 ,True     ,      1 ,No interaction ,No interaction ,      19 ,      18 ,       2
+  1 ,7698106651113604 ,https://zoom.us                 ,        1 ,False    ,      1 ,No interaction ,No interaction ,      34 ,      43 ,      24
+  2 ,8170776279233418 ,https://europa.eu               ,        2 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       0 ,       0
+  3 ,2478062572311414 ,https://digicert.com            ,        3 ,True     ,      1 ,No interaction ,No interaction ,      35 ,      18 ,       4
+  4 , 229993538067709 ,https://stackoverflow.com       ,        4 ,False    ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+  5 ,7487160729005480 ,https://teamviewer.com          ,        5 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+  6 ,5558667940290608 ,https://amazon.co.uk            ,        6 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       1 ,       1
+  7 ,3344376045039942 ,https://hp.com                  ,        7 ,True     ,      1 ,No interaction ,No interaction ,       8 ,       0 ,       0
+  8 ,3988175899992471 ,https://aliyun.com              ,        8 ,True     ,      1 ,No interaction ,No interaction ,       2 ,      21 ,       3
+  9 ,6869971166118623 ,https://rackspace.com           ,        9 ,True     ,      1 ,No interaction ,No interaction ,      26 ,      28 ,       6
+ 10 ,3110150031673036 ,https://freepik.com             ,       10 ,True     ,      1 ,No interaction ,No interaction ,      27 ,      20 ,       9
+ 11 ,6178407618192923 ,https://springer.com            ,       11 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+ 12 , 534278063538077 ,https://nature.com              ,       12 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+ 13 ,7584022490678625 ,https://casalemedia.com         ,       13 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       1 ,       0
+ 14 ,5519463594017293 ,https://surveymonkey.com        ,       14 ,True     ,      1 ,No interaction ,No interaction ,      28 ,      42 ,      28
+ 15 ,3714936936247078 ,https://paloaltonetworks.com    ,       15 ,True     ,      1 ,No interaction ,No interaction ,      53 ,      37 ,      18
+ 16 ,5600329365373185 ,https://nvidia.com              ,       16 ,True     ,      1 ,No interaction ,No interaction ,      40 ,      67 ,      38
+ 17 ,6006821627422441 ,https://imgsmail.ru             ,       17 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      37 ,       2
+ 18 ,5545613267779608 ,https://verisign.com            ,       18 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       0 ,       0
+ 19 ,2759065440588615 ,https://swrve.com               ,       19 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       0 ,       0
+ 20 ,7517509201300656 ,https://businesswire.com        ,       20 ,True     ,      1 ,No interaction ,No interaction ,      14 ,       8 ,       0
+ 21 ,7118951200784759 ,https://deloitte.com            ,       21 ,True     ,      1 ,No interaction ,No interaction ,      15 ,      23 ,      13
+ 22 ,4888665800584638 ,https://rt.com                  ,       22 ,True     ,      1 ,No interaction ,No interaction ,      10 ,      20 ,      10
+ 23 ,3282801989108135 ,https://docker.com              ,       23 ,True     ,      1 ,No interaction ,No interaction ,      12 ,       9 ,       0
+ 24 ,2441546785131864 ,https://ebay.co.uk              ,       24 ,True     ,      1 ,No interaction ,No interaction ,      20 ,      11 ,       0
+ 25 ,2027156192956944 ,https://abc.net.au              ,       25 ,True     ,      1 ,No interaction ,No interaction ,      28 ,       5 ,       4
+ 26 ,6752989884352864 ,https://plos.org                ,       26 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       2 ,       0
+ 27 ,5926205545251345 ,https://doubleverify.com        ,       27 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+ 28 ,5274875423207517 ,https://bmj.com                 ,       28 ,True     ,      1 ,No interaction ,No interaction ,      27 ,      14 ,       5
+ 29 , 876908850992309 ,https://getpocket.com           ,       29 ,True     ,      1 ,No interaction ,No interaction ,       8 ,       0 ,       0
+ 30 ,2048527361551870 ,https://supersonicads.com       ,       30 ,True     ,      1 ,No interaction ,No interaction ,       3 ,      37 ,       0
+ 31 ,7822333992207095 ,https://gartner.com             ,       31 ,True     ,      1 ,No interaction ,No interaction ,      28 ,      21 ,      10
+ 32 ,5044695505409025 ,https://branch.io               ,       32 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+ 33 ,3402008684078962 ,https://teads.tv                ,       33 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       2 ,       0
+ 34 , 426401124680618 ,https://ultradns.com            ,       34 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      29 ,       1
+ 35 ,6223443901659982 ,https://mlb.com                 ,       35 ,False    ,      0 ,No interaction ,No interaction ,      51 ,     247 ,     217
+ 36 , 172543811721207 ,https://blackboard.com          ,       36 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       1 ,       1
+ 37 , 846470189336462 ,https://entrust.net             ,       37 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+ 38 ,4392261262914568 ,https://slate.com               ,       38 ,True     ,      1 ,No interaction ,No interaction ,      41 ,     208 ,     171
+ 39 ,2302346521471693 ,https://amplitude.com           ,       39 ,True     ,      1 ,No interaction ,No interaction ,      25 ,      15 ,       2
+ 40 ,2597377024608303 ,https://thelancet.com           ,       40 ,True     ,      1 ,No interaction ,No interaction ,      11 ,       2 ,       1
+ 41 ,1153445882169970 ,https://ey.com                  ,       41 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       5 ,       0
+ 42 ,5989588884945265 ,https://symantec.com            ,       42 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       7 ,       0
+ 43 , 877159421668451 ,https://gamespot.com            ,       43 ,False    ,      0 ,No interaction ,No interaction ,      40 ,     245 ,     217
+ 44 ,2241660954562818 ,https://mediatek.com            ,       44 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       4 ,       0
+ 45 ,8388534247511570 ,https://onetrust.com            ,       45 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       0 ,       0
+ 46 ,4134600949079671 ,https://contextweb.com          ,       46 ,True     ,      1 ,No interaction ,No interaction ,       3 ,      23 ,       1
+ 47 ,1007081633757858 ,https://sap.com                 ,       47 ,True     ,      0 ,No interaction ,No interaction ,      34 ,      32 ,      17
+ 48 , 249238083882649 ,https://discogs.com             ,       48 ,True     ,      1 ,No interaction ,No interaction ,      32 ,      44 ,      30
+ 49 ,6484688930637239 ,https://rackspacecloud.com      ,       49 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      53 ,       6
+ 50 ,2197000270156435 ,https://gumgum.com              ,       50 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       3 ,       0
+ 51 ,3188780042723228 ,https://app.link                ,       51 ,True     ,      0 ,No interaction ,No interaction ,       1 ,       0 ,       0
+ 52 ,6805635872006943 ,https://pendo.io                ,       52 ,True     ,      1 ,No interaction ,No interaction ,      31 ,      16 ,       2
+ 53 ,5724572125439487 ,https://agora.io                ,       53 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+ 54 ,4442967823156610 ,https://databricks.com          ,       54 ,True     ,      1 ,No interaction ,No interaction ,      35 ,      28 ,      12
+ 55 ,7138786868312026 ,https://yieldmo.com             ,       55 ,True     ,      0 ,No interaction ,No interaction ,       9 ,       7 ,       0
+ 56 ,2324863430800505 ,https://mitre.org               ,       56 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       1 ,       0
+ 57 , 858458722137654 ,https://acm.org                 ,       57 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       3 ,       0
+ 58 ,6340961359757201 ,https://flaticon.com            ,       58 ,True     ,      0 ,No interaction ,No interaction ,      27 ,       3 ,       0
+ 59 ,8077123236006113 ,https://ssrn.com                ,       59 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+ 60 ,2108662385525885 ,https://thoughtco.com           ,       60 ,True     ,      0 ,No interaction ,No interaction ,      20 ,      30 ,      23
+ 61 ,8705637024160355 ,https://goguardian.com          ,       61 ,True     ,      1 ,No interaction ,No interaction ,      16 ,      36 ,      17
+ 62 ,6485857721940352 ,https://newscientist.com        ,       62 ,True     ,      1 ,No interaction ,No interaction ,      41 ,     231 ,     198
+ 63 ,6854925054744299 ,https://gotinder.com            ,       63 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       2 ,       0
+ 64 ,6534562717402437 ,https://trustarc.com            ,       64 ,True     ,      1 ,No interaction ,No interaction ,      29 ,      12 ,       0
+ 65 ,1373244080201860 ,https://fifa.com                ,       65 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+ 66 , 296685376355050 ,https://viber.com               ,       66 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       1 ,       0
+ 67 ,2387127390367580 ,https://helpshift.com           ,       67 ,True     ,      1 ,No interaction ,No interaction ,      34 ,      33 ,      17
+ 68 ,2788468770610195 ,https://merchantlink.com        ,       68 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       4 ,       0
+ 69 ,  79968636190029 ,https://truste.com              ,       69 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      41 ,       0
+ 70 ,5010426923923964 ,https://wufoo.com               ,       70 ,True     ,      1 ,No interaction ,No interaction ,       7 ,      18 ,       7
+ 71 , 275702072414353 ,https://weborama.fr             ,       71 ,False    ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+ 72 ,4583167340117560 ,https://osu.edu                 ,       72 ,True     ,      1 ,No interaction ,No interaction ,      19 ,       1 ,       0
+ 73 ,2370425456776679 ,https://mimecast.com            ,       73 ,True     ,      1 ,No interaction ,No interaction ,      22 ,      39 ,      18
+ 74 ,5500215406141093 ,https://technologyreview.com    ,       74 ,True     ,      1 ,No interaction ,No interaction ,      28 ,      50 ,      32
+ 75 , 589709804518878 ,https://pubnub.com              ,       75 ,True     ,      1 ,No interaction ,No interaction ,      23 ,      20 ,      11
+ 76 ,1687065615820265 ,https://adtelligent.com         ,       76 ,True     ,      1 ,No interaction ,No interaction ,      14 ,      10 ,       0
+ 77 ,1280782962631736 ,https://logitech.com            ,       77 ,True     ,      0 ,No interaction ,No interaction ,      49 ,      60 ,      32
+ 78 ,6270645881588331 ,https://algolianet.com          ,       78 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      69 ,      15
+ 79 ,4377359568972844 ,https://seekingalpha.com        ,       79 ,True     ,      1 ,No interaction ,No interaction ,      30 ,       4 ,       0
+ 80 ,7990197071055023 ,https://ico.org.uk              ,       80 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+ 81 ,5890641236437465 ,https://playrix.com             ,       81 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       0 ,       0
+ 82 , 562232086439072 ,https://cancer.org              ,       82 ,True     ,      1 ,No interaction ,No interaction ,      31 ,      59 ,      35
+ 83 ,2209261615946183 ,https://smugmug.com             ,       83 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+ 84 ,8458266628583874 ,https://inmobi.com              ,       84 ,True     ,      1 ,No interaction ,No interaction ,      10 ,       9 ,       2
+ 85 ,3434209130563148 ,https://thomsonreuters.com      ,       85 ,True     ,      1 ,No interaction ,No interaction ,      35 ,      43 ,      25
+ 86 ,1572530416615472 ,https://zend.com                ,       86 ,True     ,      1 ,No interaction ,No interaction ,      23 ,      11 ,       3
+ 87 ,3569607604780860 ,https://thawte.com              ,       87 ,True     ,      1 ,No interaction ,No interaction ,      21 ,      10 ,       4
+ 88 ,4428700519983282 ,https://allrecipes.com          ,       88 ,True     ,      0 ,No interaction ,No interaction ,      27 ,     149 ,     130
+ 89 ,6759948230694029 ,https://cell.com                ,       89 ,True     ,      1 ,No interaction ,No interaction ,      10 ,       1 ,       1
+ 90 ,2835250400829744 ,https://lifewire.com            ,       90 ,True     ,      0 ,No interaction ,No interaction ,      28 ,     128 ,     114
+ 91 ,2336003558602206 ,https://strava.com              ,       91 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       1 ,       0
+ 92 ,6764177551456589 ,https://broadcom.com            ,       92 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       1 ,       0
+ 93 ,6197285452039282 ,https://adweek.com              ,       93 ,True     ,      1 ,No interaction ,No interaction ,      39 ,      74 ,      64
+ 94 ,8630867251445845 ,https://docusign.com            ,       94 ,True     ,      1 ,No interaction ,No interaction ,      18 ,      35 ,      15
+ 95 ,6562213091736787 ,https://grserver.gr             ,       95 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+ 96 ,7181522219740104 ,https://pcworld.com             ,       96 ,True     ,      0 ,No interaction ,No interaction ,      39 ,      83 ,      68
+ 97 ,7087445103984829 ,https://segment.io              ,       97 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      51 ,      39
+ 98 ,2053129277976393 ,https://mastercard.com          ,       98 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       4 ,       0
+ 99 ,2949864268728233 ,https://coe.int                 ,       99 ,True     ,      1 ,No interaction ,No interaction ,       9 ,       0 ,       0
+100 ,3047178140377638 ,https://yumpu.com               ,      100 ,False    ,      1 ,No interaction ,No interaction ,       3 ,       0 ,       0
+101 ,7020824001963392 ,https://tribalfusion.com        ,      101 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      14 ,       1
+102 ,6738907552004022 ,https://innovid.com             ,      102 ,True     ,      1 ,No interaction ,No interaction ,       8 ,      17 ,      11
+103 ,1932459598494654 ,https://epam.com                ,      103 ,True     ,      1 ,No interaction ,No interaction ,      24 ,       6 ,       0
+104 ,8943678383827954 ,https://ap.org                  ,      104 ,True     ,      1 ,No interaction ,No interaction ,      13 ,      14 ,       3
+105 ,8080644065415224 ,https://flightradar24.com       ,      105 ,False    ,      1 ,No interaction ,No interaction ,      14 ,       8 ,       4
+106 ,1390526569016120 ,https://thomsonreuters.net      ,      106 ,False    ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+107 ,4070368110998670 ,https://gog.com                 ,      107 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       1 ,       0
+108 ,2959663543164908 ,https://dxc.com                 ,      108 ,True     ,      1 ,No interaction ,No interaction ,      27 ,      12 ,      11
+109 ,7490487002777578 ,https://verywellmind.com        ,      109 ,True     ,      0 ,No interaction ,No interaction ,      24 ,      36 ,      24
+110 ,6725731151908367 ,https://king.com                ,      110 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+111 ,4464750416091216 ,https://segment.com             ,      111 ,True     ,      0 ,No interaction ,No interaction ,      38 ,      13 ,       1
+112 ,8028269125130730 ,https://tvsquared.com           ,      112 ,False    ,      1 ,No interaction ,No interaction ,       0 ,      26 ,      19
+113 ,4346751018600311 ,https://avg.com                 ,      113 ,True     ,      1 ,No interaction ,No interaction ,      21 ,      38 ,      37
+114 ,3140098187472010 ,https://uefa.com                ,      114 ,False    ,      1 ,No interaction ,No interaction ,      16 ,       4 ,       0
+115 ,2903689067752809 ,https://cymru.com               ,      115 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      12 ,       0
+116 ,6726081950146342 ,https://worldcat.org            ,      116 ,True     ,      1 ,No interaction ,No interaction ,       9 ,      15 ,      11
+117 ,8033115408764267 ,https://n-able.com              ,      117 ,True     ,      1 ,No interaction ,No interaction ,      46 ,      23 ,       9
+118 ,3111310359260908 ,https://esa.int                 ,      118 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+119 ,5991288967961191 ,https://premierleague.com       ,      119 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       3 ,       2
+120 ,6247183191069656 ,https://tinder.com              ,      120 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+121 ,3704687645634036 ,https://breitbart.com           ,      121 ,True     ,      1 ,No interaction ,No interaction ,      22 ,     101 ,      90
+122 ,4965991319284433 ,https://goal.com                ,      122 ,True     ,      1 ,No interaction ,No interaction ,       7 ,     239 ,     217
+123 ,6596781372756429 ,https://tapjoy.com              ,      123 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      44 ,       6
+124 , 749282387816879 ,https://comodo.com              ,      124 ,True     ,      2 ,No interaction ,No interaction ,      17 ,      41 ,      27
+125 , 624037988021165 ,https://ebscohost.com           ,      125 ,False    ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+126 ,1386969030676885 ,https://eyeota.net              ,      126 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      28 ,       5
+127 ,1999310082104985 ,https://atlasobscura.com        ,      127 ,False    ,      1 ,No interaction ,No interaction ,      30 ,      13 ,      11
+128 ,6182995907892627 ,https://thebalance.com          ,      128 ,True     ,      0 ,No interaction ,No interaction ,       0 ,     131 ,     100
+129 ,4880093412582693 ,https://adyen.com               ,      129 ,True     ,      1 ,No interaction ,No interaction ,       9 ,       1 ,       0
+130 ,3661935020521489 ,https://screenconnect.com       ,      130 ,True     ,      1 ,No interaction ,No interaction ,       0 ,     110 ,      28
+131 ,3326260120528490 ,https://iubenda.com             ,      131 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+132 ,1885213969610796 ,https://rockstargames.com       ,      132 ,True     ,      0 ,No interaction ,No interaction ,       9 ,       0 ,       0
+133 , 265855017902803 ,https://shadowserver.org        ,      133 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       1 ,       0
+134 ,8823962140058393 ,https://scoop.it                ,      134 ,True     ,      1 ,No interaction ,No interaction ,       3 ,       2 ,       0
+135 , 231181943419740 ,https://siteground.com          ,      135 ,True     ,      1 ,No interaction ,No interaction ,       9 ,       3 ,       0
+136 ,7949068602695390 ,https://superuser.com           ,      136 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       1 ,       0
+137 ,8059003501757368 ,https://byu.edu                 ,      137 ,True     ,      0 ,No interaction ,No interaction ,       7 ,       3 ,       0
+138 ,2333653956787456 ,https://thespruce.com           ,      138 ,True     ,      0 ,No interaction ,No interaction ,      28 ,      37 ,      24
+139 ,5402170478249000 ,https://chinatelecomglobal.com  ,      139 ,True     ,      2 ,No interaction ,No interaction ,       7 ,       2 ,       0
+140 ,5755731557157161 ,https://senderscore.com         ,      140 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      33 ,       2
+141 ,8922536219362156 ,https://greenhouse.io           ,      141 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      82 ,      28
+142 ,8717918804003719 ,https://mynavi.jp               ,      142 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       0 ,       0
+143 ,6573034604916111 ,https://fujitsu.com             ,      143 ,True     ,      1 ,No interaction ,No interaction ,      14 ,      18 ,       7
+144 ,3004590824445500 ,https://lnk.to                  ,      144 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       3 ,       0
+145 ,7075560992525902 ,https://verywellhealth.com      ,      145 ,True     ,      0 ,No interaction ,No interaction ,      21 ,      35 ,      24
+146 ,5789431413246223 ,https://ultradns.org            ,      146 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+147 , 486874810157385 ,https://mimecast.net            ,      147 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      61 ,      18
+148 ,2273345597917709 ,https://gmu.edu                 ,      148 ,True     ,      1 ,No interaction ,No interaction ,      15 ,      21 ,      10
+149 ,1156602177509030 ,https://treehugger.com          ,      149 ,True     ,      0 ,No interaction ,No interaction ,      23 ,      37 ,      26
+150 ,8666822415010476 ,https://sendinblue.com          ,      150 ,True     ,      1 ,No interaction ,No interaction ,       1 ,      32 ,       0
+151 ,5481864284566379 ,https://nhl.com                 ,      151 ,True     ,      1 ,No interaction ,No interaction ,      16 ,      17 ,      13
+152 ,7355896787592638 ,https://acer.com                ,      152 ,False    ,      1 ,No interaction ,No interaction ,      20 ,      51 ,      33
+153 ,2295442193817038 ,https://siteground.biz          ,      153 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      12 ,       0
+154 ,5070049304376847 ,https://smartthings.com         ,      154 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+155 ,7373722663979745 ,https://sketchup.com            ,      155 ,True     ,      1 ,No interaction ,No interaction ,      28 ,      20 ,       3
+156 ,7456245093286238 ,https://askubuntu.com           ,      156 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       1 ,       0
+157 ,4325342329313098 ,https://travelandleisure.com    ,      157 ,True     ,      0 ,No interaction ,No interaction ,      34 ,     137 ,     119
+158 ,7422764405484587 ,https://observer.com            ,      158 ,False    ,      0 ,No interaction ,No interaction ,      27 ,      92 ,      83
+159 ,3719859324992459 ,https://kaltura.com             ,      159 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+160 ,1429155442667571 ,https://bunq.com                ,      160 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       1 ,       0
+161 ,8302283119348605 ,https://unimelb.edu.au          ,      161 ,True     ,      1 ,No interaction ,No interaction ,       8 ,       0 ,       0
+162 ,5937401565136118 ,https://smadex.com              ,      162 ,False    ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+163 ,6717747487030485 ,https://flashscore.com          ,      163 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       1 ,       0
+164 ,2770274730677790 ,https://mendeley.com            ,      164 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+165 ,8727893895110732 ,https://elsevierhealth.com      ,      165 ,True     ,      1 ,No interaction ,No interaction ,      16 ,       0 ,       0
+166 ,2373890020352769 ,https://lilly.com               ,      166 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       3 ,       0
+167 ,1473332270890017 ,https://pb.com                  ,      167 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      39 ,       8
+168 ,7154863027864308 ,https://nap.edu                 ,      168 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      15 ,       0
+169 ,7459943995818667 ,https://deltadna.net            ,      169 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+170 ,2380662506907325 ,https://home.kpmg               ,      170 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      14 ,       0
+171 ,5164031561756775 ,https://isipp.com               ,      171 ,True     ,      1 ,No interaction ,No interaction ,      19 ,       1 ,       0
+172 , 167294049645260 ,https://sqills.com              ,      172 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+173 ,5238979729554266 ,https://imperial.ac.uk          ,      173 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+174 ,4216074927329337 ,https://split.io                ,      174 ,False    ,      1 ,No interaction ,No interaction ,      18 ,      45 ,      28
+175 ,2288657336983527 ,https://doodle.com              ,      175 ,True     ,      1 ,No interaction ,No interaction ,      10 ,       0 ,       0
+176 ,2769133005915089 ,https://oclc.org                ,      176 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       0 ,       0
+177 ,2742011508031821 ,https://spglobal.com            ,      177 ,False    ,      1 ,No interaction ,No interaction ,      12 ,       4 ,       1
+178 ,3091022336491150 ,https://overleaf.com            ,      178 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+179 ,2084967606143216 ,https://vertamedia.com          ,      179 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      24 ,      14
+180 , 823168195228365 ,https://playtika.com            ,      180 ,False    ,      1 ,No interaction ,No interaction ,       6 ,       9 ,       0
+181 ,4731382396290797 ,https://pandasecurity.com       ,      181 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       1 ,       1
+182 ,3465069139727856 ,https://hltv.org                ,      182 ,True     ,      1 ,No interaction ,No interaction ,      13 ,       1 ,       0
+183 ,4152304323125719 ,https://pantheonsite.io         ,      183 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      79 ,      25
+184 ,3599163011264949 ,https://barracudanetworks.com   ,      184 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      45 ,       8
+185 ,3247865325341048 ,https://military.com            ,      185 ,True     ,      1 ,No interaction ,No interaction ,      17 ,      33 ,      21
+186 ,2615378407376018 ,https://mailerlite.com          ,      186 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       1 ,       0
+187 ,7681494817753642 ,https://justpremium.com         ,      187 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      10 ,       7
+188 ,7317228670890172 ,https://ccleaner.com            ,      188 ,True     ,      1 ,No interaction ,No interaction ,      25 ,       8 ,       0
+189 ,5790827769676309 ,https://hyprmx.com              ,      189 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+190 ,1400045564020699 ,https://wish.com                ,      190 ,True     ,      1 ,No interaction ,No interaction ,      26 ,      25 ,      15
+191 ,1524408543477495 ,https://logi.com                ,      191 ,True     ,      0 ,No interaction ,No interaction ,       2 ,     115 ,      36
+192 ,3568941486142684 ,https://urbanairship.com        ,      192 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       6 ,       1
+193 ,6777026014511752 ,https://uservoice.com           ,      193 ,True     ,      1 ,No interaction ,No interaction ,       6 ,      11 ,       0
+194 ,6307068039420094 ,https://aa.com.tr               ,      194 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+195 ,3030537410653789 ,https://splunk.com              ,      195 ,True     ,      1 ,No interaction ,No interaction ,      42 ,      53 ,      27
+196 ,1696588540289653 ,https://rightmove.co.uk         ,      196 ,True     ,      1 ,No interaction ,No interaction ,      10 ,       0 ,       0
+197 ,8262016635476347 ,https://liveabout.com           ,      197 ,True     ,      0 ,No interaction ,No interaction ,      19 ,      26 ,      17
+198 ,7379810358155127 ,https://bartleby.com            ,      198 ,True     ,      0 ,No interaction ,No interaction ,      26 ,      10 ,       0
+199 ,3947085448684365 ,https://domain.com              ,      199 ,True     ,      1 ,No interaction ,No interaction ,      32 ,      18 ,      15
+200 ,1141767593400982 ,https://watchguard.com          ,      200 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+201 ,6690309426766371 ,https://hik-connect.com         ,      201 ,True     ,      1 ,No interaction ,No interaction ,       5 ,       0 ,       0
+202 ,4016307503702519 ,https://exoclick.com            ,      202 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+203 ,2236624603678704 ,https://2k.com                  ,      203 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+204 ,6867367597835068 ,https://onaudience.com          ,      204 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       1 ,       0
+205 ,6380299616832351 ,https://avid.com                ,      205 ,True     ,      1 ,No interaction ,No interaction ,       8 ,      61 ,      43
+206 ,7669156975671424 ,https://narvar.com              ,      206 ,True     ,      1 ,No interaction ,No interaction ,      13 ,      12 ,       1
+207 ,5432217819686785 ,https://ets.org                 ,      207 ,True     ,      1 ,No interaction ,No interaction ,      26 ,      16 ,       1
+208 ,2610853095441536 ,https://health.com              ,      208 ,True     ,      0 ,No interaction ,No interaction ,      25 ,     134 ,     119
+209 ,8241307387157714 ,https://ons.gov.uk              ,      209 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+210 ,2615433322008858 ,https://rioseo.com              ,      210 ,True     ,      1 ,No interaction ,No interaction ,      19 ,       9 ,       1
+211 ,2049789559968390 ,https://liveperson.net          ,      211 ,False    ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+212 ,3476124143593024 ,https://complex.com             ,      212 ,False    ,      0 ,No interaction ,No interaction ,      26 ,     252 ,     209
+213 ,7939786910139465 ,https://bhg.com                 ,      213 ,True     ,      0 ,No interaction ,No interaction ,      33 ,      52 ,      36
+214 ,7950362081552487 ,https://macworld.com            ,      214 ,True     ,      0 ,No interaction ,No interaction ,      40 ,      83 ,      70
+215 ,2861649705626021 ,https://thebalancecareers.com   ,      215 ,True     ,      0 ,No interaction ,No interaction ,       0 ,     157 ,     121
+216 ,6777799169329491 ,https://geotrust.com            ,      216 ,True     ,      1 ,No interaction ,No interaction ,      24 ,      12 ,       4
+217 ,2735614397860497 ,https://mariadb.org             ,      217 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       3 ,       0
+218 ,8778411193812570 ,https://rte.ie                  ,      218 ,True     ,      0 ,No interaction ,No interaction ,       4 ,       0 ,       0
+219 ,3857068111226679 ,https://sabre.com               ,      219 ,True     ,      1 ,No interaction ,No interaction ,      26 ,      21 ,      11
+220 ,6778041251123263 ,https://truecaller.com          ,      220 ,True     ,      1 ,No interaction ,No interaction ,       0 ,       0 ,       0
+221 ,4626735957796875 ,https://americanbar.org         ,      221 ,True     ,      1 ,No interaction ,No interaction ,      37 ,      39 ,      26
+222 ,7784840904186012 ,https://myfonts.com             ,      222 ,True     ,      1 ,No interaction ,No interaction ,      49 ,      30 ,      16
+223 ,7054951608851338 ,https://gulfnews.com            ,      223 ,False    ,      0 ,No interaction ,No interaction ,      45 ,     183 ,     157
+224 ,7997889726269547 ,https://tfl.gov.uk              ,      224 ,True     ,      1 ,No interaction ,No interaction ,       2 ,       4 ,       4
+225 ,7045620185292381 ,https://forrester.com           ,      225 ,True     ,      1 ,No interaction ,No interaction ,      27 ,       0 ,       0
+226 ,2284955746836298 ,https://quovadisglobal.com      ,      226 ,True     ,      1 ,No interaction ,No interaction ,      20 ,       8 ,       4
+227 ,  69173989701377 ,https://active.com              ,      227 ,True     ,      1 ,No interaction ,No interaction ,      51 ,     146 ,     120
+228 ,5121985049695386 ,https://fantasypros.com         ,      228 ,True     ,      1 ,No interaction ,No interaction ,      13 ,     113 ,     100
+229 ,3395602765550585 ,https://eurogamer.net           ,      229 ,True     ,      1 ,No interaction ,No interaction ,       6 ,       0 ,       0
+230 ,7655727090002160 ,https://siteground.us           ,      230 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      12 ,       0
+231 ,8730262331074137 ,https://match.com               ,      231 ,True     ,      1 ,No interaction ,No interaction ,       8 ,       3 ,       0
+232 ,5291415943622216 ,https://realsimple.com          ,      232 ,True     ,      0 ,No interaction ,No interaction ,      28 ,     130 ,     111
+233 ,2855527372656457 ,https://thespruceeats.com       ,      233 ,True     ,      0 ,No interaction ,No interaction ,      23 ,      44 ,      33
+234 ,6328426938212589 ,https://freepik.es              ,      234 ,True     ,      1 ,No interaction ,No interaction ,      28 ,      19 ,       9
+235 ,4007586480110467 ,https://sanofi-synthelabo.com   ,      235 ,True     ,      0 ,No interaction ,No interaction ,       0 ,       0 ,       0
+236 ,1623087705258196 ,https://nationalgeographic.org  ,      236 ,True     ,      1 ,No interaction ,No interaction ,      24 ,      13 ,       5
+237 ,2646831360627224 ,https://eagleeyenetworks.com    ,      237 ,True     ,      1 ,No interaction ,No interaction ,       0 ,      43 ,       0
+238 ,8880045699642469 ,https://aap.org                 ,      238 ,True     ,      1 ,No interaction ,No interaction ,      22 ,      16 ,      10
+239 ,4432338214669718 ,https://seagate.com             ,      239 ,True     ,      1 ,No interaction ,No interaction ,      14 ,       5 ,       4
+240 ,4001910019083804 ,https://kcl.ac.uk               ,      240 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+241 ,3670684022124849 ,https://snowflake.com           ,      241 ,True     ,      1 ,No interaction ,No interaction ,      15 ,      28 ,      20
+242 ,2208678385692895 ,https://esri.com                ,      242 ,True     ,      1 ,No interaction ,No interaction ,      27 ,      30 ,      20
+243 ,6649261822196372 ,https://tappx.com               ,      243 ,True     ,      1 ,No interaction ,No interaction ,       7 ,       0 ,       0
+244 ,1052099261245489 ,https://ecwid.com               ,      244 ,True     ,      0 ,No interaction ,No interaction ,      32 ,      49 ,      24
+245 ,7774561225084832 ,https://sportingnews.com        ,      245 ,False    ,      0 ,No interaction ,No interaction ,      36 ,     298 ,     253
+246 ,5612965937169950 ,https://apptimize.com           ,      246 ,True     ,      1 ,No interaction ,No interaction ,       4 ,       2 ,       1
+247 ,8397575439436726 ,https://serverfault.com         ,      247 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       1 ,       0
+248 , 812819340175193 ,https://nationalarchives.gov.uk ,      248 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+249 , 524449814205140 ,https://zebra.com               ,      249 ,False    ,      1 ,No interaction ,No interaction ,      36 ,      23 ,      16
+250 ,4539974177565042 ,https://epfl.ch                 ,      250 ,False    ,      0 ,No interaction ,No interaction ,       4 ,       0 ,       0
+251 ,1565013316780581 ,https://xoom.com                ,      251 ,True     ,      1 ,No interaction ,No interaction ,      23 ,       7 ,       0
+252 ,1971643396295858 ,https://foodandwine.com         ,      252 ,True     ,      0 ,No interaction ,No interaction ,      29 ,     137 ,     122
+253 ,7305857215920350 ,https://vodafone.com            ,      253 ,True     ,      1 ,No interaction ,No interaction ,       1 ,       0 ,       0
+254 ,7831584087051595 ,https://workable.com            ,      254 ,True     ,      1 ,No interaction ,No interaction ,      27 ,      14 ,       2
+255 ,5756089662346896 ,https://mail.ru                 , 10000000 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      21 ,       2
+256 ,8381605547164526 ,https://zoom.us                 , 10000001 ,True     ,      1 ,Accept         ,No interaction ,      34 ,      42 ,      24
+257 ,6635220337102381 ,https://europa.eu               , 10000002 ,True     ,      1 ,Accept         ,Accepted       ,       1 ,       0 ,       0
+258 ,7272237764724611 ,https://digicert.com            , 10000003 ,True     ,      1 ,Accept         ,Accepted       ,      36 ,      18 ,       4
+259 ,6157027560170491 ,https://stackoverflow.com       , 10000004 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+260 ,4071764654133017 ,https://teamviewer.com          , 10000005 ,True     ,      1 ,Accept         ,Accepted       ,      17 ,      16 ,       5
+261 , 109478072578741 ,https://amazon.co.uk            , 10000006 ,True     ,      1 ,Accept         ,Accepted       ,       7 ,       1 ,       1
+262 ,1321444202538279 ,https://hp.com                  , 10000007 ,True     ,      1 ,Accept         ,Accepted       ,      32 ,      35 ,      26
+263 ,8246916137168049 ,https://aliyun.com              , 10000008 ,True     ,      1 ,Accept         ,Accepted       ,       2 ,      50 ,       3
+264 ,6449906558184429 ,https://rackspace.com           , 10000009 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,      27 ,       6
+265 ,8991822368267063 ,https://freepik.com             , 10000010 ,True     ,      1 ,Accept         ,Accepted       ,      28 ,      19 ,       9
+266 , 516153781199666 ,https://springer.com            , 10000011 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,       0 ,       0
+267 ,7987409743049794 ,https://nature.com              , 10000012 ,True     ,      1 ,Accept         ,Accepted       ,      19 ,      66 ,      50
+268 , 461237119154243 ,https://casalemedia.com         , 10000013 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,       6 ,       0
+269 ,3545080131392742 ,https://surveymonkey.com        , 10000014 ,True     ,      1 ,Accept         ,Accepted       ,      30 ,      47 ,      33
+270 ,2410005771953262 ,https://paloaltonetworks.com    , 10000015 ,True     ,      1 ,Accept         ,No interaction ,      52 ,      37 ,      18
+271 ,6843321667914758 ,https://nvidia.com              , 10000016 ,True     ,      1 ,Accept         ,Accepted       ,      42 ,      67 ,      39
+272 ,1949075772028041 ,https://imgsmail.ru             , 10000017 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      41 ,       2
+273 ,2463652961536897 ,https://verisign.com            , 10000018 ,True     ,      1 ,Accept         ,Accepted       ,       4 ,       0 ,       0
+274 ,3242131485047731 ,https://swrve.com               , 10000019 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       6 ,       0
+275 ,5197254349278446 ,https://businesswire.com        , 10000020 ,True     ,      1 ,Accept         ,Accepted       ,      15 ,       8 ,       0
+276 ,4562020151127774 ,https://deloitte.com            , 10000021 ,True     ,      1 ,Accept         ,Accepted       ,      17 ,      23 ,      13
+277 , 401379996605693 ,https://rt.com                  , 10000022 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,      20 ,      10
+278 ,8632594928658118 ,https://docker.com              , 10000023 ,True     ,      1 ,Accept         ,Accepted       ,      14 ,       9 ,       0
+279 ,7162926778772725 ,https://ebay.co.uk              , 10000024 ,True     ,      1 ,Accept         ,Accepted       ,      20 ,      11 ,       0
+280 ,2797429815965801 ,https://abc.net.au              , 10000025 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,       9 ,       8
+281 ,8362327560848346 ,https://plos.org                , 10000026 ,True     ,      1 ,Accept         ,Accepted       ,       4 ,       2 ,       0
+282 ,6639103110332196 ,https://doubleverify.com        , 10000027 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,       0 ,       0
+283 ,5230776223288651 ,https://bmj.com                 , 10000028 ,True     ,      1 ,Accept         ,Accepted       ,      15 ,       4 ,       1
+284 ,6353060589776337 ,https://getpocket.com           , 10000029 ,True     ,      1 ,Accept         ,Accepted       ,       9 ,       0 ,       0
+285 ,4715726136196376 ,https://supersonicads.com       , 10000030 ,True     ,      1 ,Accept         ,Accepted       ,       3 ,      37 ,       0
+286 ,4914088872737370 ,https://gartner.com             , 10000031 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      20 ,      10
+287 ,5022273869512210 ,https://branch.io               , 10000032 ,True     ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+288 ,6939399704830547 ,https://teads.tv                , 10000033 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      13 ,       0
+289 ,1774097732901141 ,https://ultradns.com            , 10000034 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      35 ,       1
+290 ,4978098561693334 ,https://mlb.com                 , 10000035 ,False    ,      0 ,Accept         ,No interaction ,      52 ,     245 ,     215
+291 ,5721535902913601 ,https://blackboard.com          , 10000036 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      12 ,       3
+292 ,1440186901434116 ,https://entrust.net             , 10000037 ,True     ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+293 ,2575051412391956 ,https://slate.com               , 10000038 ,False    ,      1 ,Accept         ,Accepted       ,      42 ,     191 ,     156
+294 ,2319168357401887 ,https://amplitude.com           , 10000039 ,True     ,      1 ,Accept         ,Accepted       ,      19 ,      15 ,       2
+295 ,5086179773714444 ,https://thelancet.com           , 10000040 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,       9 ,       5
+296 ,1894149162702964 ,https://ey.com                  , 10000041 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,      17 ,       6
+297 ,8768896885786206 ,https://symantec.com            , 10000042 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,       8 ,       0
+298 ,7540705668582209 ,https://gamespot.com            , 10000043 ,False    ,      0 ,Accept         ,No interaction ,      37 ,     259 ,     235
+299 ,3107167839244473 ,https://mediatek.com            , 10000044 ,True     ,      2 ,Accept         ,No interaction ,      12 ,       4 ,       0
+300 ,7373037604293269 ,https://onetrust.com            , 10000045 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       4 ,       1
+301 ,2247167448640997 ,https://contextweb.com          , 10000046 ,True     ,      1 ,Accept         ,Accepted       ,       3 ,      25 ,       1
+302 ,1678834586218770 ,https://sap.com                 , 10000047 ,True     ,      1 ,Accept         ,No interaction ,      33 ,      34 ,      18
+303 ,2952482147881296 ,https://discogs.com             , 10000048 ,True     ,      1 ,Accept         ,Accepted       ,      33 ,      47 ,      33
+304 ,8663237329616590 ,https://rackspacecloud.com      , 10000049 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      54 ,       6
+305 ,4308399476420692 ,https://gumgum.com              , 10000050 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,       9 ,       0
+306 ,1889739832613264 ,https://app.link                , 10000051 ,True     ,      0 ,Accept         ,No interaction ,       1 ,       0 ,       0
+307 ,6292002908132362 ,https://pendo.io                , 10000052 ,True     ,      1 ,Accept         ,Accepted       ,      32 ,      16 ,       2
+308 ,5097436372669040 ,https://agora.io                , 10000053 ,True     ,      1 ,Accept         ,Accepted       ,      22 ,      15 ,       5
+309 ,1071432168779020 ,https://databricks.com          , 10000054 ,False    ,      1 ,Accept         ,Accepted       ,      36 ,      28 ,      12
+310 ,7735049945310100 ,https://yieldmo.com             , 10000055 ,True     ,      0 ,Accept         ,No interaction ,       9 ,       7 ,       0
+311 ,2269938019879238 ,https://mitre.org               , 10000056 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,      12 ,       0
+312 ,5780544546333467 ,https://acm.org                 , 10000057 ,True     ,      1 ,Accept         ,Accepted       ,       2 ,       3 ,       0
+313 , 984366795120031 ,https://flaticon.com            , 10000058 ,False    ,      0 ,Accept         ,No interaction ,      27 ,       3 ,       0
+314 ,3720939423686130 ,https://ssrn.com                , 10000059 ,True     ,      1 ,Accept         ,Accepted       ,      10 ,       4 ,       4
+315 ,8100988297824326 ,https://thoughtco.com           , 10000060 ,True     ,      0 ,Accept         ,No interaction ,      20 ,      26 ,      20
+316 ,6309116564334038 ,https://goguardian.com          , 10000061 ,True     ,      1 ,Accept         ,Accepted       ,      17 ,      34 ,      15
+317 ,6184567903746719 ,https://newscientist.com        , 10000062 ,True     ,      1 ,Accept         ,Accepted       ,      44 ,     214 ,     190
+318 ,  12422989380750 ,https://gotinder.com            , 10000063 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      13 ,       0
+319 ,1535181873276191 ,https://trustarc.com            , 10000064 ,True     ,      1 ,Accept         ,Accepted       ,      34 ,      12 ,       0
+320 ,7222939735171624 ,https://fifa.com                , 10000065 ,True     ,      1 ,Accept         ,Accepted       ,       9 ,      11 ,       5
+321 ,3838551500002471 ,https://viber.com               , 10000066 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,       1 ,       0
+322 ,5753844651011469 ,https://helpshift.com           , 10000067 ,True     ,      1 ,Accept         ,Accepted       ,      35 ,      36 ,      17
+323 ,4562517538456771 ,https://merchantlink.com        , 10000068 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      19 ,       1
+324 ,2552860319873483 ,https://truste.com              , 10000069 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      46 ,       0
+325 ,7127540284162370 ,https://wufoo.com               , 10000070 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,      20 ,       9
+326 ,5820100361868883 ,https://weborama.fr             , 10000071 ,False    ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+327 ,3205104794933299 ,https://osu.edu                 , 10000072 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,       1 ,       0
+328 ,4720302694174931 ,https://mimecast.com            , 10000073 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,      48 ,      30
+329 ,1661533574996307 ,https://technologyreview.com    , 10000074 ,True     ,      1 ,Accept         ,Accepted       ,      30 ,      27 ,      11
+330 ,4724330360672463 ,https://pubnub.com              , 10000075 ,True     ,      1 ,Accept         ,Accepted       ,      24 ,      20 ,      11
+331 ,6891632874102891 ,https://adtelligent.com         , 10000076 ,True     ,      1 ,Accept         ,Accepted       ,      15 ,      10 ,       0
+332 ,8596098089146171 ,https://logitech.com            , 10000077 ,True     ,      0 ,Accept         ,No interaction ,      49 ,      60 ,      32
+333 ,6574158947093276 ,https://algolianet.com          , 10000078 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      71 ,      15
+334 ,4105024780964803 ,https://seekingalpha.com        , 10000079 ,True     ,      1 ,Accept         ,No interaction ,      30 ,       4 ,       0
+335 ,1923844743381614 ,https://ico.org.uk              , 10000080 ,True     ,      1 ,Accept         ,Accepted       ,       1 ,       0 ,       0
+336 ,6715502111394643 ,https://playrix.com             , 10000081 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       4 ,       0
+337 ,7487058581041520 ,https://cancer.org              , 10000082 ,True     ,      1 ,Accept         ,Accepted       ,      31 ,      80 ,      52
+338 ,3831331896115047 ,https://smugmug.com             , 10000083 ,True     ,      1 ,Accept         ,No interaction ,       2 ,       0 ,       0
+339 ,2559376065486631 ,https://inmobi.com              , 10000084 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       9 ,       2
+340 ,8048858315922046 ,https://thomsonreuters.com      , 10000085 ,True     ,      1 ,Accept         ,Accepted       ,      38 ,      40 ,      25
+341 ,8609152931821170 ,https://zend.com                , 10000086 ,True     ,      1 ,Accept         ,Accepted       ,      24 ,      11 ,       3
+342 ,7754568018264235 ,https://thawte.com              , 10000087 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,      10 ,       4
+343 , 867453380493388 ,https://allrecipes.com          , 10000088 ,True     ,      0 ,Accept         ,No interaction ,      27 ,     142 ,     127
+344 ,2015115776087703 ,https://cell.com                , 10000089 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,       9 ,       5
+345 ,1166430911641732 ,https://lifewire.com            , 10000090 ,True     ,      0 ,Accept         ,No interaction ,      28 ,      54 ,      38
+346 ,1815505930104730 ,https://strava.com              , 10000091 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       2 ,       0
+347 ,8768975345475076 ,https://broadcom.com            , 10000092 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,       1 ,       0
+348 , 926607498462804 ,https://adweek.com              , 10000093 ,True     ,      1 ,Accept         ,Accepted       ,      40 ,      85 ,      72
+349 , 639993256973434 ,https://docusign.com            , 10000094 ,True     ,      1 ,Accept         ,Accepted       ,      19 ,      36 ,      16
+350 ,1445266829142104 ,https://grserver.gr             , 10000095 ,True     ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+351 ,1220765809617656 ,https://pcworld.com             , 10000096 ,True     ,      0 ,Accept         ,No interaction ,      39 ,      84 ,      69
+352 ,1939523966761597 ,https://segment.io              , 10000097 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      58 ,      46
+353 , 627396959256041 ,https://mastercard.com          , 10000098 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      32 ,       1
+354 ,5509185967379611 ,https://coe.int                 , 10000099 ,True     ,      1 ,Accept         ,Accepted       ,      10 ,       0 ,       0
+355 ,6054789380149847 ,https://yumpu.com               , 10000100 ,True     ,      1 ,Accept         ,Accepted       ,      14 ,      10 ,       1
+356 ,1489003095537049 ,https://tribalfusion.com        , 10000101 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      16 ,       1
+357 ,3535041311973716 ,https://innovid.com             , 10000102 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,      18 ,      11
+358 ,3846995264078181 ,https://epam.com                , 10000103 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,      15 ,       5
+359 ,3718191367828695 ,https://ap.org                  , 10000104 ,True     ,      1 ,Accept         ,Accepted       ,      14 ,      14 ,       3
+360 , 948319424097425 ,https://flightradar24.com       , 10000105 ,True     ,      1 ,Accept         ,Accepted       ,      15 ,      14 ,       8
+361 ,2827622041174664 ,https://thomsonreuters.net      , 10000106 ,False    ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+362 ,3841658843673434 ,https://gog.com                 , 10000107 ,True     ,      1 ,Accept         ,No interaction ,       3 ,       1 ,       0
+363 ,6801477999231305 ,https://dxc.com                 , 10000108 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      12 ,      11
+364 ,5924712851404399 ,https://verywellmind.com        , 10000109 ,True     ,      0 ,Accept         ,No interaction ,      24 ,      34 ,      25
+365 ,7062672365350408 ,https://king.com                , 10000110 ,True     ,      1 ,Accept         ,Accepted       ,      10 ,       0 ,       0
+366 ,6312326265443236 ,https://segment.com             , 10000111 ,False    ,      1 ,Accept         ,Accepted       ,      45 ,      13 ,       1
+367 ,2180036741204572 ,https://tvsquared.com           , 10000112 ,False    ,      1 ,Accept         ,Accepted       ,       0 ,      32 ,      24
+368 , 334215389819017 ,https://avg.com                 , 10000113 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,      32 ,      31
+369 , 101434457975764 ,https://uefa.com                , 10000114 ,True     ,      1 ,Accept         ,Accepted       ,      28 ,      12 ,       4
+370 ,8072687545515049 ,https://cymru.com               , 10000115 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      33 ,       0
+371 ,7484306530180954 ,https://worldcat.org            , 10000116 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,      12 ,      11
+372 ,2626928466574181 ,https://n-able.com              , 10000117 ,False    ,      1 ,Accept         ,No interaction ,      46 ,      23 ,       9
+373 , 492944822814145 ,https://esa.int                 , 10000118 ,True     ,      1 ,Accept         ,Accepted       ,       4 ,       0 ,       0
+374 ,7454151819427051 ,https://premierleague.com       , 10000119 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,       3 ,       2
+375 ,6430264562383694 ,https://tinder.com              , 10000120 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       3 ,       0
+376 ,3496017738428837 ,https://breitbart.com           , 10000121 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,      99 ,      74
+377 ,3417701367223498 ,https://goal.com                , 10000122 ,False    ,      1 ,Accept         ,Accepted       ,      33 ,     259 ,     224
+378 , 166910044921697 ,https://tapjoy.com              , 10000123 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      47 ,       6
+379 ,2312943683004966 ,https://comodo.com              , 10000124 ,True     ,      2 ,Accept         ,Accepted       ,      24 ,      41 ,      27
+380 ,7223848367381902 ,https://ebscohost.com           , 10000125 ,False    ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+381 , 236426700738158 ,https://eyeota.net              , 10000126 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      29 ,       5
+382 , 116036618925461 ,https://atlasobscura.com        , 10000127 ,True     ,      1 ,Accept         ,Accepted       ,      32 ,      17 ,      15
+383 , 569967930428785 ,https://thebalance.com          , 10000128 ,True     ,      0 ,Accept         ,No interaction ,       0 ,     153 ,     119
+384 ,8219640073085697 ,https://adyen.com               , 10000129 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      24 ,       6
+385 ,5966544606052266 ,https://screenconnect.com       , 10000130 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,     106 ,      24
+386 ,8935617787289185 ,https://iubenda.com             , 10000131 ,True     ,      1 ,Accept         ,Accepted       ,      20 ,       7 ,       0
+387 ,5380329396927571 ,https://rockstargames.com       , 10000132 ,True     ,      0 ,Accept         ,No interaction ,       9 ,       0 ,       0
+388 ,1642161084563181 ,https://shadowserver.org        , 10000133 ,False    ,      1 ,Accept         ,Accepted       ,       1 ,       1 ,       0
+389 , 803868173671510 ,https://scoop.it                , 10000134 ,True     ,      1 ,Accept         ,Accepted       ,      12 ,       4 ,       0
+390 ,4931347691326705 ,https://siteground.com          , 10000135 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,      51 ,      24
+391 ,2445126767401746 ,https://superuser.com           , 10000136 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       1 ,       0
+392 ,8131087242730855 ,https://byu.edu                 , 10000137 ,True     ,      0 ,Accept         ,No interaction ,       7 ,       3 ,       0
+393 ,1273611324553841 ,https://thespruce.com           , 10000138 ,True     ,      0 ,Accept         ,No interaction ,      28 ,      40 ,      28
+394 ,2167178683525633 ,https://chinatelecomglobal.com  , 10000139 ,True     ,      2 ,Accept         ,Accepted       ,      15 ,       8 ,       0
+395 , 910639281647449 ,https://senderscore.com         , 10000140 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      34 ,       2
+396 ,3122048483557491 ,https://greenhouse.io           , 10000141 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      89 ,      34
+397 ,1642384303618821 ,https://mynavi.jp               , 10000142 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,       0 ,       0
+398 , 341151874426828 ,https://fujitsu.com             , 10000143 ,True     ,      1 ,Accept         ,Accepted       ,      15 ,      22 ,      10
+399 ,1452942941399103 ,https://lnk.to                  , 10000144 ,False    ,      1 ,Accept         ,Accepted       ,       0 ,      24 ,       0
+400 ,2377554686084429 ,https://verywellhealth.com      , 10000145 ,True     ,      0 ,Accept         ,No interaction ,      21 ,      35 ,      27
+401 ,6711048915760253 ,https://ultradns.org            , 10000146 ,True     ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+402 , 362318874735449 ,https://mimecast.net            , 10000147 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      73 ,      29
+403 ,6473638468537066 ,https://gmu.edu                 , 10000148 ,True     ,      1 ,Accept         ,Accepted       ,      16 ,      25 ,      12
+404 ,2784588367980921 ,https://treehugger.com          , 10000149 ,True     ,      0 ,Accept         ,No interaction ,      23 ,      33 ,      25
+405 ,2071880284332067 ,https://sendinblue.com          , 10000150 ,False    ,      1 ,Accept         ,Accepted       ,       1 ,      34 ,       0
+406 ,7997891689519636 ,https://nhl.com                 , 10000151 ,True     ,      1 ,Accept         ,Accepted       ,      18 ,      16 ,      12
+407 , 760226735419687 ,https://acer.com                , 10000152 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      51 ,      33
+408 ,1981472589979604 ,https://siteground.biz          , 10000153 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      78 ,      24
+409 ,7579447653313749 ,https://smartthings.com         , 10000154 ,True     ,      1 ,Accept         ,Accepted       ,       2 ,       0 ,       0
+410 ,4547662936020375 ,https://sketchup.com            , 10000155 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      20 ,       3
+411 ,1642865101840302 ,https://askubuntu.com           , 10000156 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       1 ,       0
+412 ,5336363514137976 ,https://travelandleisure.com    , 10000157 ,False    ,      0 ,Accept         ,No interaction ,      34 ,     144 ,     124
+413 ,7403457774376786 ,https://observer.com            , 10000158 ,False    ,      0 ,Accept         ,No interaction ,      27 ,     107 ,      93
+414 ,3390821139097214 ,https://kaltura.com             , 10000159 ,True     ,      1 ,Accept         ,Accepted       ,      20 ,      12 ,       0
+415 , 654570395845937 ,https://bunq.com                , 10000160 ,True     ,      1 ,Accept         ,Accepted       ,      19 ,      13 ,       5
+416 ,4013567487118285 ,https://unimelb.edu.au          , 10000161 ,True     ,      1 ,Accept         ,Accepted       ,      12 ,       8 ,       0
+417 , 680213483836988 ,https://smadex.com              , 10000162 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       0 ,       0
+418 ,1503163427399397 ,https://flashscore.com          , 10000163 ,True     ,      1 ,Accept         ,Accepted       ,       9 ,       1 ,       0
+419 ,5123535513876631 ,https://mendeley.com            , 10000164 ,True     ,      1 ,Accept         ,Accepted       ,       7 ,       4 ,       4
+420 ,4675767378672969 ,https://elsevierhealth.com      , 10000165 ,True     ,      1 ,Accept         ,Accepted       ,      25 ,       7 ,       0
+421 ,3302898963469778 ,https://lilly.com               , 10000166 ,True     ,      1 ,Accept         ,Accepted       ,      10 ,      11 ,       0
+422 ,5164397991170506 ,https://pb.com                  , 10000167 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      42 ,       8
+423 ,3781379390549991 ,https://nap.edu                 , 10000168 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      17 ,       0
+424 , 410769314127783 ,https://deltadna.net            , 10000169 ,True     ,      1 ,Accept         ,Accepted       ,       3 ,       0 ,       0
+425 ,1038792716405846 ,https://home.kpmg               , 10000170 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      53 ,      15
+426 ,5759744111974889 ,https://isipp.com               , 10000171 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,       1 ,       0
+427 ,6979391059278951 ,https://sqills.com              , 10000172 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+428 ,8201782661073608 ,https://imperial.ac.uk          , 10000173 ,True     ,      1 ,Accept         ,Accepted       ,      11 ,       0 ,       0
+429 ,3008096350682092 ,https://split.io                , 10000174 ,True     ,      1 ,Accept         ,Accepted       ,      19 ,      44 ,      28
+430 ,4121604481972717 ,https://doodle.com              , 10000175 ,True     ,      1 ,Accept         ,Accepted       ,      12 ,       0 ,       0
+431 ,2443625463797139 ,https://oclc.org                , 10000176 ,True     ,      1 ,Accept         ,Accepted       ,      13 ,      11 ,       2
+432 ,6824940768385861 ,https://spglobal.com            , 10000177 ,True     ,      1 ,Accept         ,Accepted       ,      16 ,      14 ,       1
+433 ,3412188345490339 ,https://overleaf.com            , 10000178 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+434 ,3436429188121146 ,https://vertamedia.com          , 10000179 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      25 ,      15
+435 , 590779949491961 ,https://playtika.com            , 10000180 ,True     ,      1 ,Accept         ,Accepted       ,      10 ,       9 ,       0
+436 ,4475677928715635 ,https://pandasecurity.com       , 10000181 ,True     ,      1 ,Accept         ,Accepted       ,      16 ,       3 ,       1
+437 ,2280381456422462 ,https://hltv.org                , 10000182 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,       7 ,       5
+438 ,8835089348912014 ,https://pantheonsite.io         , 10000183 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      90 ,      28
+439 ,2782067868246094 ,https://barracudanetworks.com   , 10000184 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      47 ,       8
+440 , 750995091366076 ,https://military.com            , 10000185 ,True     ,      1 ,Accept         ,Accepted       ,      18 ,      35 ,      29
+441 ,8736773466208761 ,https://mailerlite.com          , 10000186 ,True     ,      1 ,Accept         ,Accepted       ,      18 ,      35 ,      17
+442 ,8561257922423373 ,https://justpremium.com         , 10000187 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      22 ,      13
+443 ,1009888173708507 ,https://ccleaner.com            , 10000188 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,       8 ,       0
+444 ,6473804926595357 ,https://hyprmx.com              , 10000189 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+445 ,2452367470321256 ,https://wish.com                , 10000190 ,True     ,      1 ,Accept         ,Accepted       ,      33 ,      24 ,      12
+446 ,2290250163468919 ,https://logi.com                , 10000191 ,True     ,      0 ,Accept         ,No interaction ,       2 ,     112 ,      31
+447 ,8946487652663225 ,https://urbanairship.com        , 10000192 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      46 ,       4
+448 ,3204461746098749 ,https://uservoice.com           , 10000193 ,True     ,      1 ,Accept         ,Accepted       ,      12 ,      11 ,       0
+449 ,6000546394067606 ,https://aa.com.tr               , 10000194 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+450 ,4090876567500548 ,https://splunk.com              , 10000195 ,True     ,      1 ,Accept         ,Accepted       ,      45 ,      55 ,      26
+451 ,5081844844519423 ,https://rightmove.co.uk         , 10000196 ,True     ,      1 ,Accept         ,Accepted       ,      12 ,       1 ,       0
+452 ,4674914333288459 ,https://liveabout.com           , 10000197 ,True     ,      0 ,Accept         ,No interaction ,      17 ,     132 ,     116
+453 ,5759269113159760 ,https://bartleby.com            , 10000198 ,True     ,      0 ,Accept         ,No interaction ,      26 ,      10 ,       0
+454 ,4796565200278893 ,https://domain.com              , 10000199 ,True     ,      1 ,Accept         ,Accepted       ,      34 ,      18 ,      15
+455 ,2464193157349591 ,https://watchguard.com          , 10000200 ,False    ,      1 ,Accept         ,Accepted       ,      20 ,      16 ,       1
+456 ,1607993241661356 ,https://hik-connect.com         , 10000201 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       0 ,       0
+457 ,1794490644741550 ,https://exoclick.com            , 10000202 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       0 ,       0
+458 ,7678719969673914 ,https://2k.com                  , 10000203 ,True     ,      1 ,Accept         ,No interaction ,       6 ,       0 ,       0
+459 ,3745817912839922 ,https://onaudience.com          , 10000204 ,True     ,      1 ,Accept         ,Accepted       ,       9 ,       3 ,       0
+460 ,5842412117375549 ,https://avid.com                , 10000205 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      94 ,      67
+461 ,4417272580678704 ,https://narvar.com              , 10000206 ,True     ,      1 ,Accept         ,Accepted       ,      14 ,      12 ,       1
+462 ,4487467710073514 ,https://ets.org                 , 10000207 ,True     ,      1 ,Accept         ,Accepted       ,      28 ,      15 ,       1
+463 ,6841680092295831 ,https://health.com              , 10000208 ,True     ,      0 ,Accept         ,No interaction ,      23 ,     141 ,     125
+464 ,2075799192355461 ,https://ons.gov.uk              , 10000209 ,True     ,      1 ,Accept         ,Accepted       ,       7 ,       0 ,       0
+465 ,3562442557770431 ,https://rioseo.com              , 10000210 ,True     ,      1 ,Accept         ,Accepted       ,      20 ,       9 ,       1
+466 ,3824904667675315 ,https://liveperson.net          , 10000211 ,False    ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+467 ,8077180262947532 ,https://complex.com             , 10000212 ,False    ,      0 ,Accept         ,No interaction ,      26 ,     213 ,     181
+468 ,7477338564508050 ,https://bhg.com                 , 10000213 ,True     ,      0 ,Accept         ,No interaction ,      33 ,     147 ,     128
+469 ,2618449818124377 ,https://macworld.com            , 10000214 ,True     ,      0 ,Accept         ,No interaction ,      40 ,      73 ,      61
+470 ,6783269723884505 ,https://thebalancecareers.com   , 10000215 ,True     ,      0 ,Accept         ,No interaction ,       0 ,     149 ,     120
+471 ,3395521833069597 ,https://geotrust.com            , 10000216 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,      12 ,       4
+472 ,6765528026422000 ,https://mariadb.org             , 10000217 ,True     ,      1 ,Accept         ,Accepted       ,       4 ,       3 ,       0
+473 ,6294444111901324 ,https://rte.ie                  , 10000218 ,True     ,      0 ,Accept         ,No interaction ,       4 ,       0 ,       0
+474 ,7898590197944110 ,https://sabre.com               , 10000219 ,True     ,      1 ,Accept         ,Accepted       ,      27 ,      20 ,      10
+475 ,8069877751132012 ,https://truecaller.com          , 10000220 ,True     ,      1 ,Accept         ,Accepted       ,       1 ,       0 ,       0
+476 ,1150832331000276 ,https://americanbar.org         , 10000221 ,True     ,      0 ,Accept         ,No interaction ,       7 ,       0 ,       0
+477 ,1123982205121742 ,https://myfonts.com             , 10000222 ,True     ,      1 ,Accept         ,Accepted       ,      49 ,      30 ,      16
+478 ,1115692949530870 ,https://gulfnews.com            , 10000223 ,False    ,      0 ,Accept         ,No interaction ,      46 ,     344 ,     296
+479 ,8096280593721922 ,https://tfl.gov.uk              , 10000224 ,False    ,      1 ,Accept         ,Accepted       ,       8 ,      18 ,      17
+480 ,6191300720761449 ,https://forrester.com           , 10000225 ,True     ,      1 ,Accept         ,Accepted       ,      31 ,       8 ,       0
+481 ,3353812795180492 ,https://quovadisglobal.com      , 10000226 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      10 ,       4
+482 ,5352253769483920 ,https://active.com              , 10000227 ,True     ,      1 ,Accept         ,Accepted       ,      54 ,     156 ,     135
+483 ,1329342067762283 ,https://fantasypros.com         , 10000228 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,     115 ,     100
+484 ,4924127553297137 ,https://eurogamer.net           , 10000229 ,True     ,      1 ,Accept         ,Accepted       ,      28 ,      85 ,      71
+485 ,3287913903166140 ,https://siteground.us           , 10000230 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      72 ,      19
+486 ,2716792443049566 ,https://match.com               , 10000231 ,True     ,      1 ,Accept         ,Accepted       ,       8 ,       3 ,       0
+487 ,3621559395899881 ,https://realsimple.com          , 10000232 ,True     ,      0 ,Accept         ,No interaction ,      30 ,     173 ,     152
+488 ,2278949634405094 ,https://thespruceeats.com       , 10000233 ,True     ,      0 ,Accept         ,No interaction ,      27 ,      47 ,      35
+489 ,1439580698568468 ,https://freepik.es              , 10000234 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      20 ,       9
+490 , 922343198265817 ,https://sanofi-synthelabo.com   , 10000235 ,True     ,      0 ,Accept         ,No interaction ,       0 ,       0 ,       0
+491 ,7013034248297844 ,https://nationalgeographic.org  , 10000236 ,True     ,      1 ,Accept         ,No interaction ,      24 ,      13 ,       5
+492 , 537636206664919 ,https://eagleeyenetworks.com    , 10000237 ,True     ,      1 ,Accept         ,Accepted       ,       0 ,      49 ,       0
+493 ,3984944750865149 ,https://aap.org                 , 10000238 ,True     ,      1 ,Accept         ,Accepted       ,      23 ,      14 ,       8
+494 ,3486797109208938 ,https://seagate.com             , 10000239 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      53 ,      33
+495 ,3708583009341518 ,https://kcl.ac.uk               , 10000240 ,True     ,      1 ,Accept         ,Accepted       ,      21 ,      38 ,      19
+496 ,7116491427806397 ,https://snowflake.com           , 10000241 ,False    ,      1 ,Accept         ,Accepted       ,      27 ,      61 ,      37
+497 ,1506916801850244 ,https://esri.com                , 10000242 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      31 ,      20
+498 ,4534069684629668 ,https://tappx.com               , 10000243 ,True     ,      1 ,Accept         ,Accepted       ,       9 ,       0 ,       0
+499 ,2394150011248582 ,https://ecwid.com               , 10000244 ,True     ,      0 ,Accept         ,No interaction ,      32 ,      48 ,      24
+500 ,2336987631964599 ,https://sportingnews.com        , 10000245 ,False    ,      0 ,Accept         ,No interaction ,      34 ,     302 ,     266
+501 ,5322107887890601 ,https://apptimize.com           , 10000246 ,True     ,      1 ,Accept         ,Accepted       ,      20 ,      42 ,      25
+502 ,8933887220707912 ,https://serverfault.com         , 10000247 ,True     ,      1 ,Accept         ,Accepted       ,       5 ,       1 ,       0
+503 ,6541287470974056 ,https://nationalarchives.gov.uk , 10000248 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       0 ,       0
+504 ,8934962494675677 ,https://zebra.com               , 10000249 ,True     ,      1 ,Accept         ,Accepted       ,      39 ,      23 ,      16
+505 ,1420267301012832 ,https://epfl.ch                 , 10000250 ,False    ,      0 ,Accept         ,No interaction ,       4 ,       0 ,       0
+506 ,2837195760624470 ,https://xoom.com                , 10000251 ,True     ,      1 ,Accept         ,Accepted       ,      24 ,       9 ,       0
+507 ,1030923407324766 ,https://foodandwine.com         , 10000252 ,True     ,      0 ,Accept         ,No interaction ,      29 ,     154 ,     134
+508 ,6201787474936794 ,https://vodafone.com            , 10000253 ,True     ,      1 ,Accept         ,Accepted       ,       6 ,       6 ,       0
+509 ,2524000499587100 ,https://workable.com            , 10000254 ,True     ,      1 ,Accept         ,Accepted       ,      29 ,      14 ,       2
+510 ,6461092679118083 ,https://mail.ru                 , 20000000 ,True     ,      1 ,Reject         ,Rejected       ,      20 ,      21 ,       2
+511 ,4692276370481074 ,https://zoom.us                 , 20000001 ,True     ,      1 ,Reject         ,Rejected       ,      35 ,      43 ,      24
+512 ,1485065109434024 ,https://europa.eu               , 20000002 ,True     ,      1 ,Reject         ,No interaction ,       3 ,       0 ,       0
+513 ,6860391429325677 ,https://digicert.com            , 20000003 ,True     ,      1 ,Reject         ,Rejected       ,      36 ,      18 ,       4
+514 , 171008570036740 ,https://stackoverflow.com       , 20000004 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       0 ,       0
+515 ,6428884988102568 ,https://teamviewer.com          , 20000005 ,True     ,      1 ,Reject         ,Rejected       ,       6 ,       0 ,       0
+516 ,3745775911909329 ,https://amazon.co.uk            , 20000006 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       1 ,       1
+517 ,5693300661519189 ,https://hp.com                  , 20000007 ,True     ,      1 ,Reject         ,Rejected       ,       9 ,       0 ,       0
+518 , 324234424400255 ,https://aliyun.com              , 20000008 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,      50 ,       3
+519 ,5025339992995708 ,https://rackspace.com           , 20000009 ,True     ,      1 ,Reject         ,Rejected       ,      27 ,      27 ,       6
+520 ,4158745342931374 ,https://freepik.com             , 20000010 ,True     ,      1 ,Reject         ,Rejected       ,      28 ,      19 ,       9
+521 ,4174758300391060 ,https://springer.com            , 20000011 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+522 ,1286884520180108 ,https://nature.com              , 20000012 ,True     ,      1 ,Reject         ,Rejected       ,       5 ,       0 ,       0
+523 ,5412910868596277 ,https://casalemedia.com         , 20000013 ,True     ,      1 ,Reject         ,No interaction ,       0 ,       1 ,       0
+524 ,3299476589869130 ,https://surveymonkey.com        , 20000014 ,True     ,      1 ,Reject         ,Rejected       ,      32 ,      41 ,      29
+525 ,6843488281704430 ,https://paloaltonetworks.com    , 20000015 ,True     ,      1 ,Reject         ,Rejected       ,      55 ,      37 ,      18
+526 ,7700484440612406 ,https://nvidia.com              , 20000016 ,True     ,      1 ,Reject         ,Rejected       ,      42 ,      67 ,      38
+527 ,7077827521287522 ,https://imgsmail.ru             , 20000017 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      41 ,       2
+528 ,3600916012741141 ,https://verisign.com            , 20000018 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       0 ,       0
+529 ,3906654664652287 ,https://swrve.com               , 20000019 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       0 ,       0
+530 ,4760451220290071 ,https://businesswire.com        , 20000020 ,True     ,      1 ,Reject         ,Rejected       ,      15 ,       8 ,       0
+531 ,7253648044575042 ,https://deloitte.com            , 20000021 ,True     ,      1 ,Reject         ,Rejected       ,      15 ,      23 ,      13
+532 ,5934016453746001 ,https://rt.com                  , 20000022 ,True     ,      1 ,Reject         ,No interaction ,      10 ,      20 ,      10
+533 ,3297800897933961 ,https://docker.com              , 20000023 ,True     ,      1 ,Reject         ,Rejected       ,      14 ,       9 ,       0
+534 ,3284668931400059 ,https://ebay.co.uk              , 20000024 ,True     ,      1 ,Reject         ,Rejected       ,      20 ,      11 ,       0
+535 ,2894123256517684 ,https://abc.net.au              , 20000025 ,True     ,      1 ,Reject         ,No interaction ,      28 ,       5 ,       4
+536 , 218688856972135 ,https://plos.org                , 20000026 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       2 ,       0
+537 ,5626425666473585 ,https://doubleverify.com        , 20000027 ,True     ,      1 ,Reject         ,No interaction ,       6 ,       2 ,       0
+538 ,4355512004666919 ,https://bmj.com                 , 20000028 ,True     ,      1 ,Reject         ,Rejected       ,      29 ,      14 ,       5
+539 , 885177439095925 ,https://getpocket.com           , 20000029 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+540 ,8845381224738064 ,https://supersonicads.com       , 20000030 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,      37 ,       0
+541 ,5429618175980057 ,https://gartner.com             , 20000031 ,True     ,      1 ,Reject         ,Rejected       ,      28 ,      20 ,      10
+542 ,5068529277313425 ,https://branch.io               , 20000032 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+543 ,7413173414708943 ,https://teads.tv                , 20000033 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       4 ,       0
+544 ,6270754653614571 ,https://ultradns.com            , 20000034 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      30 ,       1
+545 ,2374802340098213 ,https://mlb.com                 , 20000035 ,False    ,      0 ,Reject         ,No interaction ,      60 ,     237 ,     206
+546 ,8256946630151588 ,https://blackboard.com          , 20000036 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       1 ,       1
+547 ,5074650022313871 ,https://entrust.net             , 20000037 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+548 ,2363193678627824 ,https://slate.com               , 20000038 ,True     ,      1 ,Reject         ,Rejected       ,      41 ,     212 ,     178
+549 ,1223307901465127 ,https://amplitude.com           , 20000039 ,True     ,      1 ,Reject         ,Rejected       ,      26 ,      15 ,       2
+550 ,8704316582422252 ,https://thelancet.com           , 20000040 ,True     ,      1 ,Reject         ,Rejected       ,      12 ,       2 ,       1
+551 ,6800115599855196 ,https://ey.com                  , 20000041 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       5 ,       0
+552 , 708242352678097 ,https://symantec.com            , 20000042 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       8 ,       0
+553 ,8535924465982767 ,https://gamespot.com            , 20000043 ,False    ,      0 ,Reject         ,No interaction ,      38 ,     261 ,     233
+554 ,6195908191859546 ,https://mediatek.com            , 20000044 ,True     ,      1 ,Reject         ,No interaction ,       6 ,       4 ,       0
+555 ,6641840983519478 ,https://onetrust.com            , 20000045 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       0 ,       0
+556 ,5010333570490573 ,https://contextweb.com          , 20000046 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,      24 ,       1
+557 ,5319303494834462 ,https://sap.com                 , 20000047 ,True     ,      0 ,Reject         ,No interaction ,      33 ,      34 ,      18
+558 ,1427529007865158 ,https://discogs.com             , 20000048 ,True     ,      1 ,Reject         ,Rejected       ,      33 ,      42 ,      28
+559 ,1625029427005856 ,https://rackspacecloud.com      , 20000049 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      55 ,       6
+560 ,5799264303770484 ,https://gumgum.com              , 20000050 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       3 ,       0
+561 ,3995031499771994 ,https://app.link                , 20000051 ,True     ,      0 ,Reject         ,No interaction ,       1 ,       0 ,       0
+562 ,1495997531040295 ,https://pendo.io                , 20000052 ,True     ,      1 ,Reject         ,Rejected       ,      35 ,      18 ,       2
+563 ,3735529546109473 ,https://agora.io                , 20000053 ,True     ,      1 ,Reject         ,Rejected       ,       6 ,       0 ,       0
+564 , 380018174653564 ,https://databricks.com          , 20000054 ,False    ,      1 ,Reject         ,Rejected       ,       9 ,      29 ,      12
+565 ,4596281941526518 ,https://yieldmo.com             , 20000055 ,True     ,      0 ,Reject         ,No interaction ,       9 ,       7 ,       0
+566 ,8141135138359544 ,https://mitre.org               , 20000056 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       1 ,       0
+567 ,1740007780397392 ,https://acm.org                 , 20000057 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       3 ,       0
+568 , 176550843089732 ,https://flaticon.com            , 20000058 ,True     ,      0 ,Reject         ,No interaction ,      27 ,       3 ,       0
+569 ,1051123038987643 ,https://ssrn.com                , 20000059 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+570 ,3021006141950249 ,https://thoughtco.com           , 20000060 ,True     ,      0 ,Reject         ,No interaction ,      18 ,     114 ,     105
+571 ,2989383282483011 ,https://goguardian.com          , 20000061 ,True     ,      1 ,Reject         ,Rejected       ,      17 ,      31 ,      15
+572 ,4428769677880996 ,https://newscientist.com        , 20000062 ,True     ,      1 ,Reject         ,Rejected       ,      44 ,     208 ,     181
+573 ,5781834254538434 ,https://gotinder.com            , 20000063 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       2 ,       0
+574 ,6061306367806805 ,https://trustarc.com            , 20000064 ,True     ,      1 ,Reject         ,Rejected       ,      34 ,      12 ,       0
+575 ,6022228289653110 ,https://fifa.com                , 20000065 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+576 ,1360560862890231 ,https://viber.com               , 20000066 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       1 ,       0
+577 ,6644812707818571 ,https://helpshift.com           , 20000067 ,True     ,      1 ,Reject         ,Rejected       ,      35 ,      33 ,      17
+578 ,6359036150618415 ,https://merchantlink.com        , 20000068 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       4 ,       0
+579 ,4693390654692098 ,https://truste.com              , 20000069 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      46 ,       0
+580 ,8708892490886022 ,https://wufoo.com               , 20000070 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,      18 ,       5
+581 ,6548818398256200 ,https://weborama.fr             , 20000071 ,False    ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+582 ,3624464339991984 ,https://osu.edu                 , 20000072 ,True     ,      1 ,Reject         ,Rejected       ,      20 ,       1 ,       0
+583 ,1522812323981655 ,https://mimecast.com            , 20000073 ,True     ,      1 ,Reject         ,Rejected       ,      23 ,      34 ,      13
+584 ,6433677832519067 ,https://technologyreview.com    , 20000074 ,True     ,      1 ,Reject         ,Rejected       ,      30 ,      54 ,      35
+585 ,2650785031348420 ,https://pubnub.com              , 20000075 ,True     ,      1 ,Reject         ,Rejected       ,      24 ,      20 ,      11
+586 , 469896254235997 ,https://adtelligent.com         , 20000076 ,True     ,      1 ,Reject         ,Rejected       ,      15 ,      10 ,       0
+587 , 950327434686470 ,https://logitech.com            , 20000077 ,True     ,      0 ,Reject         ,No interaction ,      49 ,      58 ,      30
+588 ,8335458047088990 ,https://algolianet.com          , 20000078 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      71 ,      15
+589 ,7235580810167560 ,https://seekingalpha.com        , 20000079 ,True     ,      0 ,Reject         ,No interaction ,      30 ,       4 ,       0
+590 ,7814261634298627 ,https://ico.org.uk              , 20000080 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,       0 ,       0
+591 ,2379326175215183 ,https://playrix.com             , 20000081 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       0 ,       0
+592 ,5488385424623297 ,https://cancer.org              , 20000082 ,True     ,      1 ,Reject         ,Rejected       ,      32 ,      89 ,      63
+593 ,5019299684527928 ,https://smugmug.com             , 20000083 ,True     ,      1 ,Reject         ,No interaction ,       2 ,       0 ,       0
+594 ,6814726918862778 ,https://inmobi.com              , 20000084 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       9 ,       2
+595 ,3494047194610609 ,https://thomsonreuters.com      , 20000085 ,True     ,      1 ,Reject         ,Rejected       ,      36 ,      42 ,      25
+596 ,2263804148101342 ,https://zend.com                , 20000086 ,True     ,      1 ,Reject         ,Rejected       ,      24 ,      11 ,       3
+597 ,7593397390352257 ,https://thawte.com              , 20000087 ,True     ,      1 ,Reject         ,Rejected       ,      22 ,      10 ,       4
+598 ,3884644021026253 ,https://allrecipes.com          , 20000088 ,True     ,      0 ,Reject         ,No interaction ,      29 ,     146 ,     128
+599 ,7269454583675761 ,https://cell.com                , 20000089 ,True     ,      1 ,Reject         ,Rejected       ,      11 ,       1 ,       1
+600 ,5379947620456917 ,https://lifewire.com            , 20000090 ,False    ,      0 ,Reject         ,No interaction ,      28 ,     133 ,     119
+601 ,4696683930546090 ,https://strava.com              , 20000091 ,True     ,      1 ,Reject         ,Rejected       ,       6 ,       0 ,       0
+602 ,7085780532735588 ,https://broadcom.com            , 20000092 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       1 ,       0
+603 ,4309030855650777 ,https://adweek.com              , 20000093 ,False    ,      1 ,Reject         ,Rejected       ,      40 ,      82 ,      72
+604 ,7729646185477497 ,https://docusign.com            , 20000094 ,True     ,      1 ,Reject         ,Rejected       ,      19 ,      37 ,      19
+605 ,2855454479933117 ,https://grserver.gr             , 20000095 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+606 ,1509273265490078 ,https://pcworld.com             , 20000096 ,True     ,      0 ,Reject         ,No interaction ,      39 ,      56 ,      43
+607 , 417504296741839 ,https://segment.io              , 20000097 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      59 ,      47
+608 ,5324153079755323 ,https://mastercard.com          , 20000098 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       5 ,       0
+609 ,6679799981472999 ,https://coe.int                 , 20000099 ,True     ,      1 ,Reject         ,No interaction ,       9 ,       0 ,       0
+610 ,2204429393684820 ,https://yumpu.com               , 20000100 ,True     ,      1 ,Reject         ,Rejected       ,       5 ,       0 ,       0
+611 ,2466348789076502 ,https://tribalfusion.com        , 20000101 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      15 ,       1
+612 ,7947580829509478 ,https://innovid.com             , 20000102 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,      16 ,      10
+613 ,1752748816730913 ,https://epam.com                , 20000103 ,True     ,      1 ,Reject         ,Rejected       ,      25 ,       6 ,       0
+614 ,8060393080478099 ,https://ap.org                  , 20000104 ,True     ,      1 ,Reject         ,No interaction ,      13 ,      14 ,       3
+615 ,6574185214790674 ,https://flightradar24.com       , 20000105 ,True     ,      1 ,Reject         ,Rejected       ,      15 ,      12 ,       8
+616 ,8111048192652156 ,https://thomsonreuters.net      , 20000106 ,False    ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+617 ,5874638029545019 ,https://gog.com                 , 20000107 ,True     ,      1 ,Reject         ,No interaction ,       3 ,       1 ,       0
+618 ,3798689773495324 ,https://dxc.com                 , 20000108 ,True     ,      1 ,Reject         ,Rejected       ,      28 ,      12 ,      11
+619 ,5233919686244696 ,https://verywellmind.com        , 20000109 ,True     ,      0 ,Reject         ,No interaction ,      24 ,      38 ,      27
+620 , 644102469742570 ,https://king.com                , 20000110 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+621 ,5919995664130621 ,https://segment.com             , 20000111 ,True     ,      1 ,Reject         ,Rejected       ,      46 ,      13 ,       1
+622 , 214385020612750 ,https://tvsquared.com           , 20000112 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      21 ,      14
+623 ,1138640132329104 ,https://avg.com                 , 20000113 ,True     ,      1 ,Reject         ,Rejected       ,      22 ,      39 ,      38
+624 ,7884983016074850 ,https://uefa.com                , 20000114 ,True     ,      1 ,Reject         ,Rejected       ,      17 ,       4 ,       0
+625 ,5921825685997729 ,https://cymru.com               , 20000115 ,True     ,      1 ,Reject         ,No interaction ,       0 ,      11 ,       0
+626 ,8459256753912534 ,https://worldcat.org            , 20000116 ,True     ,      1 ,Reject         ,Rejected       ,      10 ,      15 ,      11
+627 ,5051225160809358 ,https://n-able.com              , 20000117 ,True     ,      1 ,Reject         ,Rejected       ,      47 ,      23 ,       9
+628 , 886113779085841 ,https://esa.int                 , 20000118 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       0 ,       0
+629 ,8512534709221294 ,https://premierleague.com       , 20000119 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       3 ,       2
+630 ,3268774270121184 ,https://tinder.com              , 20000120 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+631 ,5493711717976422 ,https://breitbart.com           , 20000121 ,True     ,      1 ,Reject         ,Rejected       ,      23 ,      92 ,      81
+632 ,4009059109136069 ,https://goal.com                , 20000122 ,True     ,      1 ,Reject         ,Rejected       ,      31 ,     268 ,     226
+633 ,2878885240191227 ,https://tapjoy.com              , 20000123 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      44 ,       6
+634 ,1422856088011629 ,https://comodo.com              , 20000124 ,True     ,      2 ,Reject         ,Rejected       ,      18 ,      41 ,      27
+635 ,1382542415936490 ,https://ebscohost.com           , 20000125 ,False    ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+636 ,1370598743986607 ,https://eyeota.net              , 20000126 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      28 ,       4
+637 ,1430258535508188 ,https://atlasobscura.com        , 20000127 ,True     ,      1 ,Reject         ,Rejected       ,      31 ,      13 ,      11
+638 ,3974589284179124 ,https://thebalance.com          , 20000128 ,True     ,      0 ,Reject         ,No interaction ,       0 ,     211 ,     176
+639 ,1442166564701494 ,https://adyen.com               , 20000129 ,True     ,      1 ,Reject         ,Rejected       ,       9 ,       1 ,       0
+640 ,4269024996019340 ,https://screenconnect.com       , 20000130 ,True     ,      1 ,Reject         ,No interaction ,       0 ,     106 ,      25
+641 ,2771797512165892 ,https://iubenda.com             , 20000131 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+642 ,8381843994567635 ,https://rockstargames.com       , 20000132 ,True     ,      0 ,Reject         ,No interaction ,       9 ,       0 ,       0
+643 ,2471753153516307 ,https://shadowserver.org        , 20000133 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       1 ,       0
+644 ,5595041541003131 ,https://scoop.it                , 20000134 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       2 ,       0
+645 ,7647457886227524 ,https://siteground.com          , 20000135 ,True     ,      1 ,Reject         ,Rejected       ,      10 ,       3 ,       0
+646 , 321847850257456 ,https://superuser.com           , 20000136 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       1 ,       0
+647 ,3366142064573817 ,https://byu.edu                 , 20000137 ,False    ,      0 ,Reject         ,No interaction ,       7 ,       3 ,       0
+648 ,6918204383212816 ,https://thespruce.com           , 20000138 ,True     ,      0 ,Reject         ,No interaction ,      28 ,      38 ,      26
+649 ,1959874623807290 ,https://chinatelecomglobal.com  , 20000139 ,True     ,      2 ,Reject         ,No interaction ,       8 ,       2 ,       0
+650 ,8563834128724796 ,https://senderscore.com         , 20000140 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      34 ,       2
+651 ,5478306809233122 ,https://greenhouse.io           , 20000141 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      83 ,      29
+652 ,2504724119555105 ,https://mynavi.jp               , 20000142 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       0 ,       0
+653 ,3964309846161763 ,https://fujitsu.com             , 20000143 ,True     ,      1 ,Reject         ,Rejected       ,      11 ,      15 ,       6
+654 ,8446077172917866 ,https://lnk.to                  , 20000144 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       4 ,       0
+655 ,6204133006774803 ,https://verywellhealth.com      , 20000145 ,False    ,      0 ,Reject         ,No interaction ,      21 ,      35 ,      27
+656 ,6897654588752863 ,https://ultradns.org            , 20000146 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+657 ,2201993415961088 ,https://mimecast.net            , 20000147 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      62 ,      18
+658 ,1208712312651631 ,https://gmu.edu                 , 20000148 ,True     ,      1 ,Reject         ,Rejected       ,      16 ,      25 ,      12
+659 ,8800089389686924 ,https://treehugger.com          , 20000149 ,True     ,      0 ,Reject         ,No interaction ,      23 ,      38 ,      24
+660 ,2722584585571241 ,https://sendinblue.com          , 20000150 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,      34 ,       0
+661 ,8960906416225455 ,https://nhl.com                 , 20000151 ,True     ,      1 ,Reject         ,Rejected       ,      17 ,      16 ,      12
+662 ,4441962405300647 ,https://acer.com                , 20000152 ,True     ,      1 ,Reject         ,Rejected       ,      21 ,      50 ,      32
+663 ,2114130408426485 ,https://siteground.biz          , 20000153 ,False    ,      1 ,Reject         ,Rejected       ,       0 ,      13 ,       0
+664 ,5884376207055191 ,https://smartthings.com         , 20000154 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+665 ,3817010356020932 ,https://sketchup.com            , 20000155 ,True     ,      1 ,Reject         ,Rejected       ,      29 ,      20 ,       3
+666 ,2490328796505496 ,https://askubuntu.com           , 20000156 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       1 ,       0
+667 ,6792381429454381 ,https://travelandleisure.com    , 20000157 ,True     ,      0 ,Reject         ,No interaction ,      34 ,     134 ,     117
+668 ,4506382520601546 ,https://observer.com            , 20000158 ,False    ,      1 ,Reject         ,Rejected       ,      33 ,     101 ,      89
+669 ,4960029092192596 ,https://kaltura.com             , 20000159 ,True     ,      1 ,Reject         ,Rejected       ,      27 ,      15 ,       3
+670 ,8901251336029074 ,https://bunq.com                , 20000160 ,True     ,      1 ,Reject         ,No interaction ,       6 ,       1 ,       0
+671 ,6549385281842666 ,https://unimelb.edu.au          , 20000161 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+672 ,5693445699631842 ,https://smadex.com              , 20000162 ,True     ,      1 ,Reject         ,Rejected       ,       5 ,       0 ,       0
+673 ,2601300549347397 ,https://flashscore.com          , 20000163 ,True     ,      1 ,Reject         ,Rejected       ,       9 ,       1 ,       0
+674 , 426980013967297 ,https://mendeley.com            , 20000164 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       0 ,       0
+675 ,3352385299564951 ,https://elsevierhealth.com      , 20000165 ,True     ,      1 ,Reject         ,Rejected       ,      17 ,       0 ,       0
+676 , 902378704794081 ,https://lilly.com               , 20000166 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       2 ,       0
+677 ,1675895497123092 ,https://pb.com                  , 20000167 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      42 ,       8
+678 ,5472518752155933 ,https://nap.edu                 , 20000168 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      16 ,       0
+679 ,8734115909002180 ,https://deltadna.net            , 20000169 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       0 ,       0
+680 ,6378738055276119 ,https://home.kpmg               , 20000170 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      14 ,       0
+681 ,8417819682668162 ,https://isipp.com               , 20000171 ,True     ,      1 ,Reject         ,Rejected       ,      22 ,       1 ,       0
+682 ,4773104166185974 ,https://sqills.com              , 20000172 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       0 ,       0
+683 ,6557410145104880 ,https://imperial.ac.uk          , 20000173 ,True     ,      1 ,Reject         ,Rejected       ,       6 ,       0 ,       0
+684 ,8595390132521370 ,https://split.io                , 20000174 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,      44 ,      30
+685 ,6176697739620830 ,https://doodle.com              , 20000175 ,True     ,      1 ,Reject         ,Rejected       ,      12 ,       0 ,       0
+686 ,1905208905552500 ,https://oclc.org                , 20000176 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       0 ,       0
+687 , 475633873492407 ,https://spglobal.com            , 20000177 ,True     ,      1 ,Reject         ,Rejected       ,      13 ,       4 ,       1
+688 ,6118656913696981 ,https://overleaf.com            , 20000178 ,True     ,      1 ,Reject         ,No interaction ,       1 ,       0 ,       0
+689 , 702600126120671 ,https://vertamedia.com          , 20000179 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      25 ,      15
+690 ,6433462822965721 ,https://playtika.com            , 20000180 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       9 ,       0
+691 , 363491581913610 ,https://pandasecurity.com       , 20000181 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       1 ,       1
+692 ,6415907589817255 ,https://hltv.org                , 20000182 ,False    ,      1 ,Reject         ,Rejected       ,      15 ,       1 ,       0
+693 ,3408073450063616 ,https://pantheonsite.io         , 20000183 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      81 ,      25
+694 ,6580117299017205 ,https://barracudanetworks.com   , 20000184 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      46 ,       7
+695 ,2723314066660902 ,https://military.com            , 20000185 ,True     ,      1 ,Reject         ,Rejected       ,      18 ,      32 ,      24
+696 ,8789066007349709 ,https://mailerlite.com          , 20000186 ,True     ,      1 ,Reject         ,No interaction ,       1 ,       1 ,       0
+697 ,4189314582510662 ,https://justpremium.com         , 20000187 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      11 ,       8
+698 ,8884881923202867 ,https://ccleaner.com            , 20000188 ,True     ,      1 ,Reject         ,Rejected       ,      26 ,       9 ,       0
+699 ,6781791050395694 ,https://hyprmx.com              , 20000189 ,True     ,      1 ,Reject         ,No interaction ,       5 ,       0 ,       0
+700 ,6886043282141731 ,https://wish.com                , 20000190 ,True     ,      1 ,Reject         ,No interaction ,      28 ,      26 ,      12
+701 ,1277590903050607 ,https://logi.com                , 20000191 ,True     ,      0 ,Reject         ,No interaction ,       2 ,     115 ,      36
+702 ,5248781732539252 ,https://urbanairship.com        , 20000192 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       7 ,       1
+703 ,3931703647948517 ,https://uservoice.com           , 20000193 ,True     ,      1 ,Reject         ,No interaction ,       6 ,      11 ,       0
+704 ,5401918480086180 ,https://aa.com.tr               , 20000194 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+705 ,3715810620001721 ,https://splunk.com              , 20000195 ,True     ,      1 ,Reject         ,Rejected       ,      44 ,      56 ,      27
+706 ,8344909176944455 ,https://rightmove.co.uk         , 20000196 ,True     ,      1 ,Reject         ,Rejected       ,      11 ,       0 ,       0
+707 ,6761188610041137 ,https://liveabout.com           , 20000197 ,True     ,      0 ,Reject         ,No interaction ,      19 ,      26 ,      19
+708 ,4532189851822527 ,https://bartleby.com            , 20000198 ,True     ,      0 ,Reject         ,No interaction ,      26 ,      10 ,       0
+709 ,7691886244437944 ,https://domain.com              , 20000199 ,True     ,      1 ,Reject         ,Rejected       ,      35 ,      16 ,      13
+710 ,7661379149273175 ,https://watchguard.com          , 20000200 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+711 ,5139355134540504 ,https://hik-connect.com         , 20000201 ,True     ,      1 ,Reject         ,Rejected       ,       5 ,       0 ,       0
+712 ,4885691762081812 ,https://exoclick.com            , 20000202 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+713 ,3243016430533521 ,https://2k.com                  , 20000203 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,       0 ,       0
+714 ,4230281243628075 ,https://onaudience.com          , 20000204 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,       1 ,       0
+715 ,6068526216938849 ,https://avid.com                , 20000205 ,True     ,      1 ,Reject         ,Rejected       ,       9 ,      81 ,      63
+716 ,8553899269360180 ,https://narvar.com              , 20000206 ,True     ,      1 ,Reject         ,Rejected       ,      14 ,      12 ,       1
+717 ,  18585610367111 ,https://ets.org                 , 20000207 ,True     ,      1 ,Reject         ,Rejected       ,      30 ,      16 ,       1
+718 ,7473917246650720 ,https://health.com              , 20000208 ,True     ,      0 ,Reject         ,No interaction ,      23 ,     126 ,     111
+719 ,7927107016763534 ,https://ons.gov.uk              , 20000209 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,       0 ,       0
+720 ,4585476064532875 ,https://rioseo.com              , 20000210 ,True     ,      1 ,Reject         ,Rejected       ,      20 ,       9 ,       1
+721 ,3005295549782665 ,https://liveperson.net          , 20000211 ,False    ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+722 , 474622049564470 ,https://complex.com             , 20000212 ,False    ,      0 ,Reject         ,No interaction ,      22 ,     111 ,      87
+723 ,3822101704620863 ,https://bhg.com                 , 20000213 ,True     ,      0 ,Reject         ,No interaction ,      33 ,     212 ,     188
+724 ,6455727059356228 ,https://macworld.com            , 20000214 ,True     ,      0 ,Reject         ,No interaction ,      40 ,      88 ,      70
+725 ,4706193935580433 ,https://thebalancecareers.com   , 20000215 ,True     ,      0 ,Reject         ,No interaction ,       0 ,     209 ,     172
+726 ,1926820113127546 ,https://geotrust.com            , 20000216 ,True     ,      1 ,Reject         ,Rejected       ,      25 ,      12 ,       4
+727 ,4578839589529238 ,https://mariadb.org             , 20000217 ,True     ,      1 ,Reject         ,Rejected       ,       1 ,       3 ,       0
+728 ,3356329222198105 ,https://rte.ie                  , 20000218 ,True     ,      0 ,Reject         ,No interaction ,       4 ,       0 ,       0
+729 ,8799554770725688 ,https://sabre.com               , 20000219 ,True     ,      1 ,Reject         ,Rejected       ,      27 ,      21 ,      11
+730 ,4077894968282480 ,https://truecaller.com          , 20000220 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,       0 ,       0
+731 ,1382334848181873 ,https://americanbar.org         , 20000221 ,True     ,      0 ,Reject         ,No interaction ,       7 ,       0 ,       0
+732 ,8362807662090469 ,https://myfonts.com             , 20000222 ,True     ,      1 ,Reject         ,Rejected       ,      44 ,      31 ,      17
+733 ,8375851116765427 ,https://gulfnews.com            , 20000223 ,False    ,      0 ,Reject         ,No interaction ,      45 ,     257 ,     222
+734 ,6849581500736658 ,https://tfl.gov.uk              , 20000224 ,True     ,      1 ,Reject         ,Rejected       ,       4 ,       4 ,       4
+735 , 457793728211798 ,https://forrester.com           , 20000225 ,True     ,      1 ,Reject         ,No interaction ,      29 ,       0 ,       0
+736 ,3505048210708176 ,https://quovadisglobal.com      , 20000226 ,True     ,      1 ,Reject         ,Rejected       ,      20 ,      10 ,       4
+737 ,7631764805569220 ,https://active.com              , 20000227 ,True     ,      1 ,Reject         ,Rejected       ,      52 ,     160 ,     130
+738 ,4228529406283563 ,https://fantasypros.com         , 20000228 ,True     ,      1 ,Reject         ,Rejected       ,      14 ,      96 ,      85
+739 ,7846637390804488 ,https://eurogamer.net           , 20000229 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       0 ,       0
+740 ,6225618320408562 ,https://siteground.us           , 20000230 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      13 ,       0
+741 ,4605678600879249 ,https://match.com               , 20000231 ,True     ,      1 ,Reject         ,Rejected       ,       9 ,       3 ,       0
+742 ,5522480052281936 ,https://realsimple.com          , 20000232 ,True     ,      0 ,Reject         ,No interaction ,      33 ,      64 ,      49
+743 ,2845576503006636 ,https://thespruceeats.com       , 20000233 ,True     ,      0 ,Reject         ,No interaction ,      27 ,     132 ,     114
+744 ,3757229352150001 ,https://freepik.es              , 20000234 ,True     ,      1 ,Reject         ,Rejected       ,      29 ,      19 ,       9
+745 ,5186931102311958 ,https://sanofi-synthelabo.com   , 20000235 ,True     ,      0 ,Reject         ,No interaction ,       0 ,       0 ,       0
+746 ,7164315115630680 ,https://nationalgeographic.org  , 20000236 ,True     ,      1 ,Reject         ,No interaction ,      24 ,      13 ,       5
+747 ,5199035887852325 ,https://eagleeyenetworks.com    , 20000237 ,True     ,      1 ,Reject         ,Rejected       ,       0 ,      44 ,       0
+748 ,5468038352124777 ,https://aap.org                 , 20000238 ,True     ,      1 ,Reject         ,Rejected       ,      19 ,      14 ,       8
+749 ,7373175266691282 ,https://seagate.com             , 20000239 ,True     ,      1 ,Reject         ,Rejected       ,      16 ,       5 ,       4
+750 ,4230825056475760 ,https://kcl.ac.uk               , 20000240 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+751 ,7186508412535584 ,https://snowflake.com           , 20000241 ,True     ,      1 ,Reject         ,Rejected       ,      16 ,      28 ,      20
+752 , 100336195871323 ,https://esri.com                , 20000242 ,True     ,      1 ,Reject         ,Rejected       ,      28 ,      30 ,      20
+753 ,3449248449241195 ,https://tappx.com               , 20000243 ,True     ,      1 ,Reject         ,Rejected       ,       8 ,       0 ,       0
+754 ,8741565127958163 ,https://ecwid.com               , 20000244 ,True     ,      0 ,Reject         ,No interaction ,      32 ,      41 ,      23
+755 ,3282549849304951 ,https://sportingnews.com        , 20000245 ,True     ,      1 ,Reject         ,Rejected       ,      38 ,     297 ,     250
+756 ,1725105317864333 ,https://apptimize.com           , 20000246 ,True     ,      1 ,Reject         ,Rejected       ,       5 ,       2 ,       1
+757 ,3367516133104264 ,https://serverfault.com         , 20000247 ,True     ,      1 ,Reject         ,Rejected       ,       3 ,       1 ,       0
+758 , 925404729527704 ,https://nationalarchives.gov.uk , 20000248 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+759 ,8124967900441096 ,https://zebra.com               , 20000249 ,True     ,      1 ,Reject         ,Rejected       ,      24 ,      16 ,      15
+760 ,3731802068801354 ,https://epfl.ch                 , 20000250 ,False    ,      0 ,Reject         ,No interaction ,       4 ,       0 ,       0
+761 ,4483399144712229 ,https://xoom.com                , 20000251 ,True     ,      1 ,Reject         ,No interaction ,      25 ,       8 ,       0
+762 ,1874184905614225 ,https://foodandwine.com         , 20000252 ,True     ,      0 ,Reject         ,No interaction ,      29 ,     146 ,     127
+763 ,7717445445633746 ,https://vodafone.com            , 20000253 ,True     ,      1 ,Reject         ,Rejected       ,       2 ,       0 ,       0
+764 ,1038647447300675 ,https://workable.com            , 20000254 ,True     ,      1 ,Reject         ,Rejected       ,       7 ,      14 ,       2
