@@ -1,4 +1,4 @@
-> **Note:** This is a modified copy of [BannerClick's analysis files](https://doi.org/10.17617/3.1MUYFX) for use in [Duke CS+ 2023: Web Cookie Security and Privacy](https://cs.duke.edu/undergraduate/research/csplus). The original README file is below.
+> **Note:** This is a modified copy of [BannerClick's analysis files](https://doi.org/10.17617/3.1MUYFX) for use in [Duke CS+ 2023: Web Cookie Security and Privacy](https://cs.duke.edu/undergraduate/research/csplus).
 
 # Reproducibility instructions
 
