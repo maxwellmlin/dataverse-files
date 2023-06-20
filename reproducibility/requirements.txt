@@ -1,5 +1,3 @@
-# WARNING: This requirements file may not work. Use the requirements.txt file in branch max-lin instead.
-
 # This file may be used to create an environment using:
 # $ conda create --name dataverse --file reproducibility/requirements.txt
 # platform: linux-64
